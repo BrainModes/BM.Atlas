@@ -1,0 +1,31 @@
+# Behavior for line endings.
+
+* text=auto
+
+*.h text
+*.c text
+*.hpp text
+*.cpp text
+
+*.txt text
+*.xml text
+
+*.vcxproj text eol=crlf
+*.vcxproj.filters text eol=crlf
+*.vcxproj.user text eol=crlf
+
+*.svg text
+*.png binary
+*.jpg binary
+*.bmp binary
+
+*.exe binary
+*.dll binary
+*.lib binary
+*.pdb binary
+*.zip binary
+
+*.pro text
+*.pro.user text
+*.pro.user text
+*.pro.user.* text

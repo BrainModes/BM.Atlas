@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4ac6e0ca573fc4aaba4dfb88ee570853
+timeCreated: 1486638538
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _FresnelMap: {fileID: 2800000, guid: d629559209bc94f4c98d3bf06d07ab63, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

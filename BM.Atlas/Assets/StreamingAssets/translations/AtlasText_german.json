@@ -1,0 +1,330 @@
+{"items":[
+  {
+    "key": "text_anchor",
+    "value": "left"
+  },
+  {
+    "key": "display_language",
+    "value": "Deutsch"
+  },
+  {
+    "key": "brain_regions",
+    "value": "Hirnregionen"
+  },
+  {
+    "key": "brain_functions",
+    "value": "Hirnfunktionen"
+  },
+  {
+    "key": "visual_perception_title",
+    "value": "Sehen"
+  },
+  {
+    "key": "visual_perception_body",
+    "value": "Die ersten Hirnareale, die Informationen von den Augen erhalten, verarbeiten einfache Merkmale wie die Farben und Konturen der Objekte, die wir sehen. Nachgeschaltete Areale verarbeiten komplexere Eigenschaften wie die Ausrichtung und Bewegung von Objekten. Die enthaltenen Informationen werden genutzt um beispielsweise Gesichter und die darin gezeigten Emotionen zu erkennen."
+  },
+  {
+    "key": "auditory_perception_title",
+    "value": "Hören"
+  },
+  {
+    "key": "auditory_perception_body",
+    "value": "Vom Innenohr aus erreicht die in den Schallwellen enthaltene Information das Gehirn. Grundmerkmale der Schallwellen wie Frequenz, Ursprungsrichtung und Klangstärke werden bereits auf dem Weg durch den Hirnstamm dekodiert. In der Großhirnrinde werden komplexere Aspekte wie die Bedeutung des Gehörten verarbeitet: Spricht jemand mit uns? Hören wir Musik?"
+  },
+  {
+    "key": "somatosensory_perception_title",
+    "value": "Fühlen"
+  },
+  {
+    "key": "somatosensory_perception_body",
+    "value": "Wir besitzen unterschiedliche Arten von Tastrezeptoren. Mit ihnen können wir Druck, Vibration, Schmerz und Temperatur wahrnehmen, und sogar die Stellung und Bewegung unserer Extremitäten. Diese Rezeptoren senden überall im Körper verteilt Informationen an das Gehirn."
+  },
+  {
+    "key": "taste_perception_title",
+    "value": "Schmecken"
+  },
+  {
+    "key": "taste_perception_body",
+    "value": "Unsere Zunge kann fünf Geschmacksrichtungen unterscheiden: süß, salzig, sauer, bitter und umami. Schärfe wird hingegen im gesamten Mund wahrgenommen. Ein großer Teil der »Geschmackswahrnehmung« wird allerdings durch den Geruchssinn bestimmt -- deshalb schmeckt Essen mit einer verstopften Nase oft weniger intensiv. Die Geschmacksinformationen werden an das Gehirn weitergegeben, das deren Bedeutung verarbeitet. In manchen Teilen des Gehirns gibt es Areale die entweder nur auf einen angenehmen Geschmack reagieren oder nur auf einen unangenehmen Geschmack."
+  },
+  {
+    "key": "olfactory_perception_title",
+    "value": "Riechen"
+  },
+  {
+    "key": "olfactory_perception_body",
+    "value": "Die Nase enthält über tausend (!) unterschiedliche Arten von Rezeptoren, die die verschiedenen Moleküle in der Luft unterscheiden können. Diese Informationen werden direkt an die Amygdala (eine wichtige Struktur für die Verarbeitung von Emotionen) und an die Großhirnrinde übertragen, wo der Geruch wahrgenommen und seine Bedeutung entschlüsselt wird. Wie beim Schmecken, so gibt es auch beim Riechen Areale die entweder nur bei angenehmen oder nur bei unangenehmen Gerüchen aktiviert werden."
+  },
+  {
+    "key": "motion_title",
+    "value": "Bewegung"
+  },
+  {
+    "key": "motion_body",
+    "value": "Damit wir unsere Hand heben können muss unser Gehirn einen Befehl an die Hand senden, sich zu bewegen. Für jede Bewegung werden zahlreiche Bereiche des Gehirns aktiviert. Diese Areale stehen häufig im Zusammenhang mit Planung, Präzision, Timing und der Fähigkeit, die richtige Bewegung für jeden Zweck auszuführen, auch ohne sich darauf zu konzentrieren."
+  },
+  {
+    "key": "language_title",
+    "value": "Sprache"
+  },
+  {
+    "key": "language_body",
+    "value": "Wir kommunizieren vor allem durch Sprache. Bei den meisten Menschen liegen die Bereiche für die Sprachproduktion und das Sprachverstehen hauptsächlich auf der linken Seite des Gehirns. Unterschiedliche Bereiche sind für das Sprachverständnis, die Sprachproduktion und die Syntax verantwortlich."
+  },
+  {
+    "key": "emotions_title",
+    "value": "Emotionen"
+  },
+  {
+    "key": "emotions_body",
+    "value": "Es ist noch nicht abschließend erforscht, wie und wo genau sich Emotionen in der Gehirnaktivität widerspiegeln. Es wurde jedoch festgestellt, dass einige Bereiche im Gehirn für die Verarbeitung von Emotionen besonders wichtig sind. Das Studium dieser Bereiche hilft, das Puzzle zusammenzusetzen."
+  },
+  {
+    "key": "consolidation_of_new_memories_title",
+    "value": "Konsolidierung neuer Erinnerungen"
+  },
+  {
+    "key": "consolidation_of_new_memories_body",
+    "value": "Wir sind ständig neuen Informationen ausgesetzt, jedoch vergessen wir das meiste davon und behalten nur einen kleinen Teil im Gedächtnis. Das Gehirn, insbesondere der Hippocampus, entscheidet, ob eine neue Information wichtig ist und im Gedächtnis behalten werden soll oder ob sie vergessen werden kann. Ohne den Hippocampus ist es unmöglich, neue Erinnerungen zu formen."
+  },
+  {
+    "key": "working_memory_title",
+    "value": "Arbeitsgedächtnis"
+  },
+  {
+    "key": "working_memory_body",
+    "value": "Das Arbeitsgedächtnis wurde früher als 'Kurzzeitgedächtnis' bezeichnet. Es beinhaltet alle Erinnerungen, die wir brauchen, um unsere momentanen Aufgaben auszuführen - ein bisschen wie ein Schreibtisch, auf dem wir Hausaufgaben machen. Genau wie bei dem Schreibtisch ist der Arbeitsspeicher begrenzt, sodass nur die Informationen darin gespeichert werden, die gerade wichtig sind."
+  },
+  {
+    "key": "orientation_title",
+    "value": "Orientierung"
+  },
+  {
+    "key": "orientation_body",
+    "value": "Dank unseres Gehirns haben wir ein ziemlich gutes Gefühl dafür, wo wir sind, was näher oder weiter entfernt ist und wie wir von Ort zu Ort gelangen können. Im Hippocampus und den entorhinalen Cortices gibt es Zellen, die Informationen über unseren aktuellen Ort codieren. Es wird vermutet, dass sie uns bei der Orientierung im Raum helfen."
+  },
+  {
+    "key": "hunger_and_satiety_title",
+    "value": "Hunger und Sättigungsgefühl"
+  },
+  {
+    "key": "hunger_and_satiety_body",
+    "value": "Die Kerne (Ansammlungen von Nervenzellkörpern) für Hunger und Sättigung im Hypothalamus erhalten Informationen aus dem Verdauungssystem und aus vielen Bereichen des Gehirns über unseren aktuellen Zustand und entscheiden, ob sie das Gefühl von Hunger oder das Gefühl von Sättigung erzeugen."
+  },
+  {
+    "key": "circadian_clocks_title",
+    "value": "Schlaf-Wach-Rhythmus"
+  },
+  {
+    "key": "circadian_clocks_body",
+    "value": "Unser Schlaf-Wach-Rhythmus wird durch den Nucleus suprachiasmaticus des Hypothalamus bestimmt. Er hilft uns zu bestimmen, ob es Tag oder Nacht ist, auch wenn wir nicht wissen, ob die Sonne scheint oder nicht. Die Uhr wird durch Sonnenlicht zurückgesetzt - so gewöhnen wir uns z. B. an einen neuen Tag-Nacht-Rhythmus, wenn wir in eine andere Zeitzone fliegen."
+  },
+  {
+    "key": "breath_and_heartbeat_regulation_title",
+    "value": "Regulierung von Atmung und Herzschlag"
+  },
+  {
+    "key": "breath_and_heartbeat_regulation_body",
+    "value": "Auch unser Herz und unsere Lungen arbeiten nicht unabhängig vom Gehirn. Sie werden durch den Hirnstamm reguliert, der ihre Aktivität nach Bedarf verlangsamt oder beschleunigt. Wenn wir zum Beispiel laufen, brauchen wir viel Sauerstoff, also erhöht unser Gehirn unsere Atmung und Herzfrequenz."
+  },
+  {
+    "key": "conscious_state_title",
+    "value": "Bewusstseinszustand"
+  },
+  {
+    "key": "conscious_state_body",
+    "value": "Verschiedene Bereiche im Gehirn arbeiten anders, wenn wir wach sind oder schlafen. Eine Veränderung ihrer Aktivität kann dazu führen, dass wir einschlafen oder aufwachen. Bei Bewusstseinsstörungen, wie einem Koma oder vegetativen Zuständen, sind diese Bereiche geschädigt."
+  },
+  {
+    "key": "cortex_title",
+    "value": "Großhirnrinde"
+  },
+  {
+    "key": "frontal_lobe_title",
+    "value": "Frontallappen"
+  },
+  {
+    "key": "frontal_lobe_body",
+    "value": "Der Frontallappen ist der größte der vier Hirnlappen und befindet sich an der Vorderseite des Gehirns. Seine verschiedenen Areale beherbergen viele wichtige Funktionen: beispielsweise ist der motorische Cortex für Bewegungen zuständig und das Broca-Areal für Sprachproduktion. Der präfrontale Cortex spielt außerdem eine wichtige Rolle bei höheren Gehirnfunktionen wie strategischem Denken, Arbeitsgedächtnis und Entscheidungsfindung."
+  },
+  {
+    "key": "motor_cortex_title",
+    "value": "Primärer Motorcortex"
+  },
+  {
+    "key": "motor_cortex_body",
+    "value": "Dieser Bereich ist für Bewegungen zuständig. Befehle, die aus dem primären Motorcortex kommen, werden - nach Feinabstimmung im Kleinhirn und im Hirnstamm - an das Rückenmark gesendet. Das Rückenmark leitet diese Befehle an die Muskeln weiter, die sich daraufhin zusammenziehen. Verschiedene Bereiche im primären Motorcortex sind für verschiedene Körperteile verantwortlich, von den Füßen bis zum Gesicht. Die Vorderseite dieses Bereichs ist für komplexe Aufgaben wie die Planung von Bewegungen und Bewegungssequenzen verantwortlich."
+  },
+  {
+    "key": "broca_area_title",
+    "value": "Broca-Areal"
+  },
+  {
+    "key": "broca_area_body",
+    "value": "Dies ist einer der beiden Hauptbereiche im Gehirn, die Sprache ermöglichen. Es befindet sich normalerweise auf der linken Seite des Gehirns und ist wichtig für Syntax und Sprachproduktion (Patienten mit Schäden in diesem Bereich haben Schwierigkeiten zu sprechen, obwohl sie Sprache verstehen können). Die Forschung schreibt diesem Bereich auch einige nichtsprachliche Funktionen wie die Verarbeitung von Musik und Teile des Arbeitsgedächtnisses zu."
+  },
+  {
+    "key": "prefrontal_cortex_title",
+    "value": "Präfrontaler Cortex"
+  },
+  {
+    "key": "prefrontal_cortex_body",
+      "value": "Einer der wichtigsten Bereiche im Gehirn. Er ist hauptsächlich für höhere Funktionen im Zusammenhang mit dem Arbeitsgedächtnis zuständig, z. B. Entscheidungsfindung, Handlungsplanung, soziales Verhalten und rationales Denken. Er ist außerdem an Lernprozessen, Gedächtnis und Aufmerksamkeit beteiligt. Forscher sehen unter anderem hier den Sitz der Intelligenz sowie unserer Charakterigenschaften und Persönlichkeit. Verschiedene Krankheiten wie Schizophrenie und Autismus sind durch Veränderungen in diesem Bereich gekennzeichnet."
+  },
+  {
+    "key": "parietal_lobe_title",
+    "value": "Parietallappen"
+  },
+  {
+    "key": "parietal_lobe_body",
+    "value": "Dieser Bereich hat viele Funktionen - von der Verarbeitung sensorischer Informationen des Körpers im somatosensorischen Cortex bis zu höheren Funktionen, die im posterioren (hinteren) parietalen Cortex stattfinden, beispielsweise Aufmerksamkeit und Visuokonstruktion, welche z. B. zum Zeichnen wichtig ist."
+  },
+  {
+    "key": "somatosensory_cortex_title",
+    "value": "Somatosensorischer Cortex"
+  },
+  {
+    "key": "somatosensory_cortex_body",
+    "value": "Dieser Bereich ist für die Verarbeitung von Berührung sowie Schmerz, Vibration und Temperatur verantwortlich und empfängt Informationen von Rezeptoren, die im gesamten Körper verteilt sind. Von den Rezeptoren aus werden diese Informationen über das Rückenmark und den Hirnstamm an den Thalamus gesendet, der sie anschließend an den somatosensorischen Cortex im vorderen Teil des Parietallappens weiterleitet."
+  },
+  {
+    "key": "posterior_parietal_lobe_title",
+    "value": "Posteriorer Parietallappen"
+  },
+  {
+    "key": "posterior_parietal_lobe_body",
+    "value": "Der posteriore (hintere) parietale Cortex beinhaltet Bereiche, die für höhere Gehirnfunktionen verantwortlich sind, beispielsweise die Koordination von Seh- und Tastsinn und die Synchronisation dieser Sinne mit motorischen Funktionen. Darunter fallen auch höhere kognitive Leistungen, wie z. B. mathematisch-logisches Denken, Aufmerksamkeit, Arbeitsgedächtnis oder das Gefühl für sich selbst und Räumlichkeit."
+  },
+  {
+    "key": "occipital_lobe_title",
+    "value": "Occipitallappen"
+  },
+  {
+    "key": "occipital_lobe_body",
+    "value": "Verantwortlich für die Verarbeitung visueller Informationen. Die primären Bereiche, in denen visuelle Informationen zuerst empfangen werden, erfassen grundlegende Eigenschaften - beispielsweise die Farbe und Kontur eines Objekts. Die nachgeschalteten Bereiche verarbeiten Aspekte wie Bewegung und Orientierung. Die Informationen werden dann zur weiteren Verarbeitung an andere Areale weitergeleitet, z. B. zur Erkennung von Gesichtern."
+  },
+  {
+    "key": "temporal_lobe_title",
+    "value": "Temporallappen"
+  },
+  {
+    "key": "temporal_lobe_body",
+    "value": "Die Temporallappen befinden sich an der linken und rechten Seite des Gehirns, hinter den Schläfen. Sie spielen eine wichtige Rolle bei der Verarbeitung sensorischer Informationen. Verschiedene Bereiche innerhalb dieser Lappen sind für die Verarbeitung von Seh-, Hör- und Riechsinn verantwortlich."
+  },
+  {
+    "key": "auditory_cortex_title",
+    "value": "Auditorischer Cortex"
+  },
+  {
+    "key": "auditory_cortex_body",
+    "value": "Dieses Areal ist für die Verarbeitung von Hörinformationen verantwortlich. Es ist in Unterabschnitte unterteilt: Der primäre Bereich empfängt akustische Informationen als Erstes (diese wurden bereits im Hirnstamm vorverarbeitet). Anschließend werden die Informationen an die sekundären Abschnitte weitergeleitet, die für komplexere Hörfunktionen wie das Verarbeiten von Musik zuständig sind."
+  },
+  {
+    "key": "wernicke_area_title",
+    "value": "Wernicke-Areal"
+  },
+  {
+    "key": "wernicke_area_body",
+    "value": "Einer der beiden wichtigen Bereiche für Sprache im Gehirn. Er ist für das Sprachverständnis verantwortlich, nicht aber für die Sprachproduktion. Patienten mit Schäden in diesem Bereich haben einen normalen Sprachfluss, können aber selbst nicht verstehen, was gesagt wird und ihre Sprache klingt häufig zusammenhangslos. Dieser Bereich existiert nur auf einer Hirnhälfte (bei den meisten Menschen auf der linken Seite)."
+  },
+  {
+    "key": "median_and_inferior_temporal_lobe_title",
+    "value": "Medialer und inferiorer Temporallappen"
+  },
+  {
+    "key": "median_and_inferior_temporal_lobe_body",
+    "value": "Dieser Teil enthält die Areale, die für eine komplexere Verarbeitung der visuellen Informationen verantwortlich sind, z. B. das Erkennen von Gesichtern, Objekten und Hintergründen."
+  },
+  {
+    "key": "piriform_cortex_title",
+    "value": "Piriformer Cortex"
+  },
+  {
+    "key": "piriform_cortex_body",
+    "value": "Dieses Areal der Großhirnrinde ist für die Verarbeitung von Riechinformationen verantwortlich. Es erhält Informationen von den Geruchsorganen. Beim Menschen ist dieser Bereich im Vergleich zu anderen Teilen des Gehirns sehr klein, was möglicherweise darauf hindeutet, dass der Geruchssinn im Vergleich zu anderen Sinnen eine weniger wichtige Rolle in unserem Leben spielt."
+  },
+  {
+    "key": "limbic_cortex_title",
+    "value": "Limbischer Cortex"
+  },
+  {
+    "key": "limbic_cortex_body",
+    "value": "Diese Areale sind mit unserem Verhalten assoziiert. Sie sind wichtig für das Sozialverhalten; Emotionsverarbeitung, Motivation, Lernen und Erinnerung. Das limbische System enthält außerhalb der Großhirnrinde noch weitere Komponenten wie die Amygdala und den Hippocampus."
+  },
+  {
+    "key": "insula_title",
+    "value": "Insula"
+  },
+  {
+    "key": "insula_body",
+    "value": "Dieser Teil der Großhirnrinde liegt tief im Gehirn 'eingefaltet' und ist von außen nicht zu sehen. Die Insula hängt mit verschiedenen Emotionen wie Ekel und mit emotionalen Reaktionen auf äußere Reize zusammen. Sie ist an der Überwachung körperlicher Aktivitäten beteiligt, aber auch an höheren Gehirnprozessen."
+  },
+  {
+    "key": "gustatory_cortex_title",
+    "value": "Gustatorischer Cortex"
+  },
+  {
+    "key": "gustatory_cortex_body",
+    "value": "Dieses Areal ist für die Verarbeitung von Geschmacksinformationen verantwortlich. Die Informationen kommen von Geschmacksrezeptoren im Mund (hauptsächlich auf der Zunge). Über den Hirnstamm und den Thalamus erreichen sie den gustatorischen Cortex. Dieser besteht aus drei Teilen: einem Teil in der Insula, einem Teil im Gyrus postcentralis und dem dritten Teil am unteren Rand des Frontallappens."
+  },
+  {
+    "key": "subcortical_title",
+    "value": "Subkortikale Strukturen"
+  },
+  {
+    "key": "hippocampus_title",
+    "value": "Hippocampus"
+  },
+  {
+    "key": "hippocampus_body",
+    "value": "Hippocampus bedeutet im Lateinischen 'Seepferdchen', denn die Form des Hippocampus ähnelt einem solchen. Er spielt eine wichtige Rolle bei der Erzeugung, Codierung und Speicherung neuer Erinnerungen, insbesondere bewusster Erinnerungen an Ereignisse und Fakten. Der Hippocampus spielt auch eine wichtige Rolle für das räumliche Gedächtnis und die Orientierung."
+  },
+  {
+    "key": "amygdala_title",
+    "value": "Amygdala"
+  },
+  {
+    "key": "amygdala_body",
+    "value": "Ein kleiner Bereich tief im Gehirn, der eine wichtige Rolle bei der Verarbeitung verschiedener Emotionen spielt (insbesondere der unangenehmen, z. B. Angst). Die Amygdala ist in zweierlei Hinsicht wichtig: Sie beeinflusst höhere kognitive Funktionen in Bezug auf Emotionen und sie initiiert die auf Emotionen bezogene Regulierung von grundlegenden Körperfunktionen (zum Beispiel durch Erhöhung des Blutdrucks und der Herzfrequenz)."
+  },
+  {
+    "key": "thalamus_title",
+    "value": "Thalamus"
+  },
+  {
+    "key": "thalamus_body",
+    "value": "Der Thalamus ist die 'Relaisstation' des Gehirns. Die meisten Informationen vom Körper und von anderen Stellen im Nervensystem (z. B. Informationen von den Sinnen, abgesehen vom Geruchssinn), gehen zuerst durch den Thalamus. Hier findet eine grundlegende Verarbeitung von Informationen statt, nach der sie an den Cortex weitergeleitet werden."
+  },
+  {
+    "key": "hypothalamus_title",
+    "value": "Hypothalamus"
+  },
+  {
+    "key": "hypothalamus_body",
+    "value": "Der Hypothalamus überwacht einige grundlegende Funktionen des Körpers. Er reguliert Hunger und Durst, die Körpertemperatur und ist verantwortlich für den Tagesrhythmus. Er hat Verbindungen zu vielen Hirnbereichen, aktiviert die Hypophyse und kontrolliert das gesamte Hormonsystem des Körpers."
+  },
+  {
+    "key": "basal_ganglia_title",
+    "value": "Basalganglien"
+  },
+  {
+    "key": "basal_ganglia_body",
+    "value": "Die Basalganglien spielen eine zentrale Rolle für der Regulierung von Bewegungen. Eine gestörte Aktivität in ihnen liegt beispielsweise bei der Parkinson-Krankheit vor. Kürzlich wurde entdeckt, dass sie auch an kognitiven Prozessen unabhängig von Bewegung beteiligt sind. Eine der Strukturen in diesem Areal ist der Nucleus accumbens, der eine Rolle beim Lernen durch Verstärkung spielt."
+  },
+  {
+    "key": "cerebellum_title",
+    "value": "Cerebellum"
+  },
+  {
+    "key": "cerebellum_body",
+    "value": "Das Cerebellum (Kleinhirn) ist einer der mysteriösesten und faszinierendsten Bereiche des Nervensystems. Obwohl es nur 15% der Gehirngröße ausmacht, enthält es 60% der Nervenzellen. Es ist involviert in motorische Funktionen wie Koordination, Gleichgewicht, Präzision und Timing. Studien haben gezeigt, dass es auch bei höheren Funktionen wie Gedächtnis, Lernen, Entscheidungsfindung und Emotionen eine Rolle spielt."
+  },
+  {
+    "key": "brain_stem_title",
+    "value": "Hirnstamm"
+  },
+  {
+    "key": "brain_stem_body",
+    "value": "Der Hirnstamm ist unersetzlich für die Grundfunktionen von Körper und Gehirn. Er überwacht und reguliert die Aktivität wichtiger Prozesse wie Blutdruck, Puls und Atmung. Er spielt auch eine wichtige Rolle bei der Regulierung von Schlaf, Wachheit und Bewusstsein. Er steuert die Gesichts- und Augenmuskulatur und ist für Bereiche verantwortlich, die mit Gesichtsreflexen zusammenhängen. Er enthält außerdem Bereiche, die die Wahrnehmung von Schmerz modulieren."
+  }
+]}

@@ -1,0 +1,330 @@
+{"items":[
+  {
+    "key": "text_anchor",
+    "value": "left"
+  },
+  {
+    "key": "display_language",
+    "value": "Español"
+  },
+  {
+    "key": "brain_regions",
+    "value": "Regiones Cerebrales"
+  },
+  {
+    "key": "brain_functions",
+    "value": "Funciones Cerebrales"
+  },
+  {
+    "key": "visual_perception_title",
+    "value": "Visión"
+  },
+  {
+    "key": "visual_perception_body",
+    "value": "Las primeras áreas corticales que reciben información desde los ojos procesan características básicas, tales como el color y el contorno de los objetos que vemos, mientras que otras áreas involucradas posteriormente procesan propiedades más complejas como la orientación y el movimiento de los objetos. La información recopilada es usada para, por ejemplo, reconocer un rostro y las emociones que aquel nos muestra."
+  },
+  {
+    "key": "auditory_perception_title",
+    "value": "Audición"
+  },
+  {
+    "key": "auditory_perception_body",
+    "value": "Cuando procesamos las ondas sonoras que llegan al cerebro desde el oído interno, primero discernimos las características básicas del sonido como la frecuencia, la dirección desde donde proviene y la potencia (que ya son decodificadas cuando pasan a través del Tronco Encefálico). En la corteza procesamos aspectos más avanzados como el significado: ¿Me está hablando alguien? ¿Aquello que suena, es música?"
+  },
+  {
+    "key": "somatosensory_perception_title",
+    "value": "Tacto"
+  },
+  {
+    "key": "somatosensory_perception_body",
+    "value": "Poseemos diferentes formas de receptores táctiles. Con ellos podemos sentir contacto, vibración, dolor y temperatura, e incluso la posición y el movimiento de nuestras extremidades. Estos receptores envían información distribuida en todo el cuerpo hacia el cerebro."
+  },
+  {
+    "key": "taste_perception_title",
+    "value": "Gusto"
+  },
+  {
+    "key": "taste_perception_body",
+    "value": "Nuestra lengua puede diferenciar cinco sabores: dulce, salado, ácido, amargo y umami. La condimentación se percibe en cambio en toda la boca. Una gran parte de la percepción del sabor está determinada por el sentido del olfato (lo cual explica la razón por la cual la comida se siente con menor intensidad cuando la nariz está tapada). La información del gusto se transmite luego al cerebro, el cual procesa su significado. En algunas partes del cerebro hay áreas que reaccionan tan solo en respuesta a los sabores agradables, o tan solo a los sabores desagradables."
+  },
+  {
+    "key": "olfactory_perception_title",
+    "value": "Olfato"
+  },
+  {
+    "key": "olfactory_perception_body",
+    "value": "La nariz contiene más de mil tipos diferentes de receptores para discernir las diferentes moléculas que ingresan a ella. Esta información se transfiere directamente a la Amígdala (estructura importante para el procesamiento de las emociones) y a la corteza, la cual genera la percepción y el significado de los olores. Diferentes áreas se activan en respuesta a olores agradables y desagradables."
+  },
+  {
+    "key": "motion_title",
+    "value": "Movimiento"
+  },
+  {
+    "key": "motion_body",
+    "value": "Cuando levantamos la mano, el cerebro envía un comando para moverla. Cada movimiento involucra muchas áreas del cerebro para la planificación, la precisión, el cronometraje y la habilidad de llevar a cabo el movimiento correcto para cada propósito (aun cuando no prestemos mucha atención a todo aquello)."
+  },
+  {
+    "key": "language_title",
+    "value": "Lenguaje"
+  },
+  {
+    "key": "language_body",
+    "value": "El lenguaje es la forma primaria de comunicación entre los humanos. En la mayoría de nosotros, las áreas de producción y entendimiento del lenguaje se encuentran principalmente en el lado izquierdo del cerebro. Ciertas áreas son resposables de la comprensión del lenguaje, su producción y la comprensión de la sintaxis."
+  },
+  {
+    "key": "emotions_title",
+    "value": "Emociones"
+  },
+  {
+    "key": "emotions_body",
+    "value": "Todavía no se entiende completamente cómo se reflejan las emociones en el cerebro. Sin embargo, se ha determinado que para el procesamiento de las emociones son importantes unas pocas áreas cerebrales, cuyo estudio ayuda a poner juntas las piezas del rompecabezas."
+  },
+  {
+    "key": "consolidation_of_new_memories_title",
+    "value": "Consolidación de Nuevas Memorias"
+  },
+  {
+    "key": "consolidation_of_new_memories_body",
+    "value": "Estamos constantemente expuestos a una gran cantidad de información, pero olvidamos la mayoría de aquella rápidamente para retener tan solo una pequeña cantidad. El cerebro, en especial el Hipocampo, decide si una nueva pieza de información es importante y si debería ser retenida en la memoria o ser olvidada. Sin el Hipocampo se volvería imposible adquirir nuevas memorias."
+  },
+  {
+    "key": "working_memory_title",
+    "value": "Memoria de Trabajo"
+  },
+  {
+    "key": "working_memory_body",
+    "value": "Solía ser denominada “memoria a corto plazo”. Contiene todas las memorias que necesitamos para llevar a cabo todas las tareas que nos encontramos ejecutando (más o menos como un escritorio sobre el cual nos encontramos trabajando). Como el escritorio, también la memoria de trabajo tiene un espacio limitado; por eso, aquella retiene tan solo la información que es importante “justo ahora”."
+  },
+  {
+    "key": "orientation_title",
+    "value": "Orientación"
+  },
+  {
+    "key": "orientation_body",
+    "value": "Gracias al cerebro tenemos un entendimiento cabal de dónde estamos, de lo que está cerca de nosotros, de aquello que es más distante y de cómo ir de un lugar a otro. En el Hipocampo y las Cortezas Entorrinales hay células que codifican la localización del lugar donde estamos en un determinado momento y es posible que aquellas nos ayuden en la orientación."
+  },
+  {
+    "key": "hunger_and_satiety_title",
+    "value": "Hambre y Saciedad"
+  },
+  {
+    "key": "hunger_and_satiety_body",
+    "value": "Los núcleos del hambre y la saciedad en el Hipocampo reciben información desde el sistema digestivo y otras áreas del cerebro acerca de nuestra estado actual y deciden si generan una sensación de hambre o de satisfacción."
+  },
+  {
+    "key": "circadian_clocks_title",
+    "value": "Ritmo Circadiano"
+  },
+  {
+    "key": "circadian_clocks_body",
+    "value": "Nuestro reloj circadiano está localizado en el núcleo supraquiasmático en el Hipotálamo y nos ayuda a determinar si es de día o de noche, incluso sin que sepamos si el sol brilla o no. Dicho reloj puede ser restablecido con la luz solar. Esta es la razón por la cual nos acostumbramos a un nuevo calendario determinado por el sol cuando viajamos a otro país."
+  },
+  {
+    "key": "breath_and_heartbeat_regulation_title",
+    "value": "Regulación de la Respiración y Ritmo Cardiaco"
+  },
+  {
+    "key": "breath_and_heartbeat_regulation_body",
+    "value": "Nuestro corazón y pulmones no trabajan aleatoriamente. Ellos están regulados por el tronco encefálico, que lentifica o acelera sus acciones según sea necesario. Por ejemplo, cuando corremos necesitamos grandes cantidades de oxígeno, de modo que el cerebro envía comandos para elevar nuestra respiración y ritmo cardiaco."
+  },
+  {
+    "key": "conscious_state_title",
+    "value": "Estado Consciente"
+  },
+  {
+    "key": "conscious_state_body",
+    "value": "Las diversas áreas del cerebro trabajan de manera distinta según estemos despiertos o dormidos y un cambio en su actividad puede provocar que nos quedemos dormidos o que despertemos. En algunos casos de desórdenes del estado de conciencia, tales como el coma o el estado vegetativo, aquellas áreas presentan daños."
+  },
+  {
+    "key": "cortex_title",
+    "value": "Corteza"
+  },
+  {
+    "key": "frontal_lobe_title",
+    "value": "Lóbulo Frontal"
+  },
+  {
+    "key": "frontal_lobe_body",
+    "value": "Localizado al frente del cerebro este es el mayor de los cuatro lóbulos. Sus áreas constitutivas son responsables de muchas funciones: la Corteza Motora es responsable del movimiento, el Área de Broca es responsable de la producción del lenguaje y la Corteza Prefrontal juega un rol importante en funciones cerebrales de alto nivel, tales como el pensamiento estratégico, la memoria de trabajo y la toma de decisiones."
+  },
+  {
+    "key": "motor_cortex_title",
+    "value": "Corteza Motora Primaria"
+  },
+  {
+    "key": "motor_cortex_body",
+    "value": "Esta área es responsable del movimiento. Los comandos originados en la Corteza Motora Primaria son enviados -después de algunos ajustes en el Cerebelo y el Tronco Encefálico- a la Médula Espinal, que los transmite a los músculos, los cuales se contraen o relajan consecuentemente. Diferentes áreas de la Corteza Motora Primaria son responsables de diferentes partes del cuerpo, desde los pies hasta el rostro. La parte delantera de esta área es responsable de tareas complejas, tales como planificación y secuencias del movimiento."
+  },
+  {
+    "key": "broca_area_title",
+    "value": "Área de Broca"
+  },
+  {
+    "key": "broca_area_body",
+    "value": "Esta es una de las dos áreas cerebrales responsables del lenguaje. Está localizada en el lado derecho del cerebro y es importante para la producción sintáctica y del lenguaje (pacientes con daño en esta área tienen dificultades para hablar, a pesar de que entienden aquello que se les dice). Los investigadores también atribuye funciones no linguísticas, tales como la música y la memoria de trabajo a esta región."
+  },
+  {
+    "key": "prefrontal_cortex_title",
+    "value": "Corteza Prefrontal"
+  },
+  {
+    "key": "prefrontal_cortex_body",
+      "value": "Responsable de funciones de alto nivel, tales como toma de decisiones, planificación y administración, comportamiento social y pensamiento racional, es una de las áreas más importantes del cerebro. También está involucrada en procesos de aprendizaje, memoria y atención. Los investigadores atribuyen a esta área la inteligencia, así como nuestras características y personalidad. Varias enfermedades como la esquizofrenia y el autismo se caracterizan por cambios en esta área."
+  },
+  {
+    "key": "parietal_lobe_title",
+    "value": "Lóbulo Parietal"
+  },
+  {
+    "key": "parietal_lobe_body",
+    "value": "Este lóbulo tiene un amplio rango de funciones, desde el procesamiento de la información sensorial proveniente del cuerpo en la Corteza Somatosensorial, hasta funciones de alto nivel que tienen lugar en la Corteza Parietal Posterior, como la atención o la construcción visual (la cual es importante en actividades como el dibujo)."
+  },
+  {
+    "key": "somatosensory_cortex_title",
+    "value": "Corteza Somatosensorial"
+  },
+  {
+    "key": "somatosensory_cortex_body",
+    "value": "Es responsable del procesamiento de las sensaciones provenientes del tacto, el dolor, las vibraciones y la temperatura. Localizada en la parte anterior del Lóbulo Parietal, esta área recibe información desde receptores distribuidos a lo largo del cuerpo que transmiten información a través de la Médula Espinal y el Tronco Encefálico al Tálamo, el cual la distribuye a la Corteza Somatosensorial"
+  },
+  {
+    "key": "posterior_parietal_lobe_title",
+    "value": "Corteza Parietal Posterior"
+  },
+  {
+    "key": "posterior_parietal_lobe_body",
+    "value": "Contiene áreas responsables de algunas funciones de alto nivel en el cerebro, tales como la coordinación entre los sentidos de la vista y el tacto, así como la sincronización de dichos sentidos con las funciones motoras. Tiene que ver con las matemáticas y la lógica y también con funciones de alto nivel como la atención, la memoria de trabajo, la noción de uno mismo (el ‘yo’) y el espacio."
+  },
+  {
+    "key": "occipital_lobe_title",
+    "value": "Lóbulo Occipital"
+  },
+  {
+    "key": "occipital_lobe_body",
+    "value": "Es responsable del procesamiento de la información visual. Sus áreas primarias reciben directamente la información visual y llevan a cabo el procesamiento de características básicas como el color y el contorno de los objetos que vemos. Sus áreas más avanzadas procesan aspectos tales como el movimiento y la orientación. Luego, esta información es transmitida a otros lóbulos para procesamiento posterior -por ejemplo, para el reconocimiento facial-."
+  },
+  {
+    "key": "temporal_lobe_title",
+    "value": "Lóbulo Temporal"
+  },
+  {
+    "key": "temporal_lobe_body",
+    "value": "Está localizado a los lados del cerebro. Juega un rol importante en el procesamiento de la información sensorial. Distintas áreas dentro de este lóbulo son responsables del procesamiento de la información de los sentidos de la vista, oído y olfato."
+  },
+  {
+    "key": "auditory_cortex_title",
+    "value": "Corteza Auditiva"
+  },
+  {
+    "key": "auditory_cortex_body",
+    "value": "Responsable del procesamiento de la información del sonido, está dividida en dos subsecciones: el área primaria, la cual es la primera de la corteza que recibe la información auditiva (que ya ha sido preprocesada en el Tronco Encefálico); y, las áreas secundarias, que reciben dicha información y que son responsables de funciones auditivas más complejas, como el procesamiento musical."
+  },
+  {
+    "key": "wernicke_area_title",
+    "value": "Área de Wermicke"
+  },
+  {
+    "key": "wernicke_area_body",
+    "value": "Una de las dos mayores áreas del lenguaje en el cerebro, es responsable de la comprensión, aunque no de la producción lingüística. Los pacientes con daño en esta área suelen tener una fluidez normal al hablar, pero no pueden entender lo que dicen. Esta área solo existe en uno de los lados del cerebro (usualmente el izquierdo)."
+  },
+  {
+    "key": "median_and_inferior_temporal_lobe_title",
+    "value": "Lóbulo Temporal Medio e Inferior"
+  },
+  {
+    "key": "median_and_inferior_temporal_lobe_body",
+    "value": "Contiene las áreas responsables del procesamiento más complejo de la información visual, tales como el reconocimiento facial y el reconocimiento de la información escénica."
+  },
+  {
+    "key": "piriform_cortex_title",
+    "value": "Corteza Piriforme"
+  },
+  {
+    "key": "piriform_cortex_body",
+    "value": "Esta es el área de la Corteza responsable del procesamiento de la información del sentido del olfato. Recibe información de los órganos del olfato. En los humanos esta área es muy pequeña en relación a otras partes del cerebro, lo cual podría indicar que el sentido del olfato tiene un rol menos importante en comparación con otras especies."
+  },
+  {
+    "key": "limbic_cortex_title",
+    "value": "Corteza Límbica"
+  },
+  {
+    "key": "limbic_cortex_body",
+    "value": "Relacionadas con el comportamiento, estas áreas son importantes para el procesamiento de emociones, la motivación, el aprendizaje y la memoria. El sistema límbico tiene componentes adicionales que no están en la corteza, tales como la Amígdala y el Hipocampo."
+  },
+  {
+    "key": "insula_title",
+    "value": "Ínsula"
+  },
+  {
+    "key": "insula_body",
+    "value": "Esta parte de la corteza está doblada dentro del cerebro y no puede ser visualizada desde afuera. La Ínsula está relacionada con varias emociones como la repugnancia y con reacciones emocionales a estímulos externos. Está involucrada en actividades como el monitoreo de actividades corporales, pero también en procesos cerebrales de alto nivel."
+  },
+  {
+    "key": "gustatory_cortex_title",
+    "value": "Corteza Gustativa"
+  },
+  {
+    "key": "gustatory_cortex_body",
+    "value": "Esta área es responsable del procesamiento de la información proveniente del sentido del gusto. Dicha información arriba desde receptores gustativos localizados en la boca (principalmente en la lengua), luego fluye a través del Tronco Encefálico y el Tálamo y llega a la Corteza Gustativa. La Corteza Gustativa está compuesta de tres partes: una en la Ínsula, una en el Giro Postcentral y una tercera en la base del Lóbulo Frontal."
+  },
+  {
+    "key": "subcortical_title",
+    "value": "Estructuras Subcorticales"
+  },
+  {
+    "key": "hippocampus_title",
+    "value": "Hipocampo"
+  },
+  {
+    "key": "hippocampus_body",
+    "value": "Hipocampo significa ‘caballo de mar’ en Latín y hay quienes dicen que su forma se asemeja a un caballo de mar. El Hipocampo juega un papel importante tanto en la generación, codificación y almacenamiento de nuevas memorias -especialmente memorias conscientes de eventos y hechos-, como también en la memoria espacial y la orientación."
+  },
+  {
+    "key": "amygdala_title",
+    "value": "Amígdala"
+  },
+  {
+    "key": "amygdala_body",
+    "value": "Esta es una área pequeña en la profundidad del cerebro que juega un rol importante en el procesamiento de diferentes aspectos de las emociones (notablemente aquellas emociones desagradables, particularmente el temor). La Amígdala tiene una importancia dual: influye en las funciones cognitivas de alto nivel relacionadas con las emociones, e inicia la regulación de funciones corporales básicas relacionadas con las emociones -incrementando la presión sanguínea y el ritmo cardiaco, por ejemplo-."
+  },
+  {
+    "key": "thalamus_title",
+    "value": "Tálamo"
+  },
+  {
+    "key": "thalamus_body",
+    "value": "Esta es la ‘estación de relevos’ del cerebro. La mayoría de la información proveniente del cuerpo y otros lugares del sistema nervioso (tales como la información de los sentidos, con excepción del sentido del olfato) pasa primero por el Tálamo, donde tiene lugar un procesamiento muy básico de dicha información, luego de lo cual aquella es transmitida a la Corteza."
+  },
+  {
+    "key": "hypothalamus_title",
+    "value": "Hipotálamo"
+  },
+  {
+    "key": "hypothalamus_body",
+    "value": "El Hipotálamo monitorea algunos comportamientos básicos del cuerpo, como la regulación del hambre, la sed y la temperatura y es responsable del ritmo circadiano. También está conectado a muchas áreas en el cerebro, activa la glándula pituitaria y controla todo el sistema hormonal del cuerpo."
+  },
+  {
+    "key": "basal_ganglia_title",
+    "value": "Núcleos Basales"
+  },
+  {
+    "key": "basal_ganglia_body",
+    "value": "Juegan un rol central en la regulación del movimiento. Una actividad irregular de su parte puede resultar en la enfermedad de Parkinson. Se ha descubierto recientemente que los Núcleos Basales también están involucrados en procesos cognitivos no relacionados con el movimiento. Una de las estructuras en esta agrupación es el Núcleo Accumbens -que juega un rol en el sistema que genera el aprendizaje por refuerzo."
+  },
+  {
+    "key": "cerebellum_title",
+    "value": "Cerebelo"
+  },
+  {
+    "key": "cerebellum_body",
+    "value": "Es una de las partes más misteriosas y fascinantes del sistema nervioso. A pesar de que comprende tan solo el 15% del tamaño del cerebro, contiene el 60% de las neuronas. Es notable por sus papeles motores en la coordinación, balance, precisión y cronometraje. Algunos estudios han demostrado que también está relacionado con funciones de alto nivel como la memoria, el aprendizaje, la toma de decisiones y la emoción."
+  },
+  {
+    "key": "brain_stem_title",
+    "value": "Tronco Encefálico"
+  },
+  {
+    "key": "brain_stem_body",
+    "value": "Es esencial para las funciones básicas del cuerpo y del cerebro. Monitorea y regula la actividad de procesos mayores como la presión sanguínea, el pulso y la respiración. También juega un rol significativo en la regulación del sueño, la alerta y el estado de conciencia. Controla los músculos del rostro y los ojos y es responsable de las áreas relacionadas a los reflejos faciales. También contiene áreas que modulan la percepción del dolor."
+  }
+]}
