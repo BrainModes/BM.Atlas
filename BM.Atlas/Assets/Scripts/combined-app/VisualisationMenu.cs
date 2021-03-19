@@ -91,20 +91,14 @@ public class VisualisationMenu : MonoBehaviour
             case Map.PATHWAYS:
                 SwitchBetweenColorMapRegions(true);
                 colorMapper.SelectVisualisation(firstVisualisationSelectedPerMap[idx]);
-                palette.label = "Relative Entropy";
-                palette.UpdatePalette();
                 break;
             case Map.BRAAK:
                 SwitchBetweenColorMapRegions(true);
                 colorMapper.SelectVisualisation(firstVisualisationSelectedPerMap[idx]);
-                palette.label = "Stages";
-                palette.UpdatePalette();
                 break;
             case Map.RECEPTOR:
                 SwitchBetweenColorMapRegions(true);
                 colorMapper.SelectVisualisation(firstVisualisationSelectedPerMap[idx]);
-                palette.label = "Tracer binding in 1 fmol/mg";
-                palette.UpdatePalette();
                 break;
             case Map.REGIONS:
                 SwitchBetweenColorMapRegions(false);
@@ -112,8 +106,6 @@ public class VisualisationMenu : MonoBehaviour
             case Map.CYTOLOGIC:
                 SwitchBetweenColorMapRegions(true);
                 colorMapper.SelectVisualisation(firstVisualisationSelectedPerMap[idx]);
-                palette.label = "";
-                palette.UpdatePalette();
                 break;
         }
     }

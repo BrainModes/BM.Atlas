@@ -47,8 +47,14 @@ public class ColorMapper : MonoBehaviour, IEventSystemHandler
             int.TryParse(name, out parcelIdx);
             SetParcelColor(parcelIdx, parcel, mapping);
         }
-
-
+        TextAsset metaFile = Resources.Load("Color-maps/" + fileName + "_meta") as TextAsset;
+        string[] metaData = metaFile.text.Split('\n');
+        palette.SetMin(float.Parse(metaData[0]));
+        palette.SetMax(float.Parse(metaData[1]));
+        if (metaData.Length == 3) {
+            palette.label = metaData[2];
+        }
+        palette.UpdatePalette();
     }
 
     private void SetParcelColor(int parcelIdx, Renderer parcel, string[] mapping) {
