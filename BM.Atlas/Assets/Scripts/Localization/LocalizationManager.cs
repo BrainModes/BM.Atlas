@@ -76,7 +76,6 @@ public class LocalizationManager : MonoBehaviour, IEventSystemHandler
     public void SetLanguage(string langName)
     {
         localizedText = translations[langName];
-    
         languageToggle = !languageToggle;
     }
 

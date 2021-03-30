@@ -32,13 +32,15 @@ public class LocalizedText : MonoBehaviour
         {
 
             Initialise();
+
         }
 
         // update value of text when the language is switched
         if (languageToggle != localizationManager.GetLanguageToggle())
         {
             updateTextTranslations();
-            languageToggle = !languageToggle;
+
+            languageToggle = localizationManager.GetLanguageToggle();
         }
 
         // update value of text when the key is switched
@@ -61,10 +63,10 @@ public class LocalizedText : MonoBehaviour
     {
         theRTLTextObject.originalText = localizationManager.GetLocalizedValue(key);
         theRTLTextObject.convertDirection = RTL.ConvertDirection.Forward;
-        theRTLTextObject.wordWrap = false;
         theRTLTextObject.wordWrapWidth = theOriginalTextObject.rectTransform.rect.width;
+        theRTLTextObject.wordWrap = true;
         theRTLTextObject.Convert();
-        
+
         //check the original text anchor layout of the object before realigning left, right or center for RTL case
         TextAnchor textAlighnment = theOriginalTextObject.alignment;
 
@@ -82,14 +84,21 @@ public class LocalizedText : MonoBehaviour
         }
         else if (LocalizationManager.instance.GetLocalizedValue("text_anchor") == "right")
         {
-            if(textAlighnment == TextAnchor.UpperLeft || textAlighnment == TextAnchor.UpperRight || textAlighnment == TextAnchor.UpperCenter){
+
+            if (textAlighnment == TextAnchor.UpperLeft || textAlighnment == TextAnchor.UpperRight || textAlighnment == TextAnchor.UpperCenter){
                 textAlighnment = TextAnchor.UpperRight;
-                }else if(textAlighnment == TextAnchor.LowerLeft || textAlighnment == TextAnchor.LowerRight || textAlighnment == TextAnchor.LowerCenter){
-                    textAlighnment = TextAnchor.LowerRight;
-                }else{
-                    textAlighnment = TextAnchor.MiddleRight;
-                }
-            
+            }
+            else if(textAlighnment == TextAnchor.LowerLeft || textAlighnment == TextAnchor.LowerRight || textAlighnment == TextAnchor.LowerCenter){
+
+                textAlighnment = TextAnchor.LowerRight;
+
+            }
+            else
+            {
+                textAlighnment = TextAnchor.MiddleRight;
+
+            }
+
         }
         else
         {
@@ -103,9 +112,4 @@ public class LocalizedText : MonoBehaviour
         }
     }
 
-    public bool GetLanguageToggle(){
-
-        return languageToggle;
-
-    }
 }
