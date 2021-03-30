@@ -69,47 +69,51 @@ public class LocalizedText : MonoBehaviour
 
         //check the original text anchor layout of the object before realigning left, right or center for RTL case
         TextAnchor textAlighnment = theOriginalTextObject.alignment;
-
+        bool textIsUpper = textAlighnment == TextAnchor.UpperLeft || textAlighnment == TextAnchor.UpperRight || textAlighnment == TextAnchor.UpperCenter;
+        bool textIsLower = textAlighnment == TextAnchor.LowerLeft || textAlighnment == TextAnchor.LowerRight || textAlighnment == TextAnchor.LowerCenter;
+      
         if (isCenter)
         {
             
-            if(textAlighnment == TextAnchor.UpperLeft || textAlighnment == TextAnchor.UpperRight || textAlighnment == TextAnchor.UpperCenter){
-                textAlighnment = TextAnchor.UpperCenter;
-            }else if(textAlighnment == TextAnchor.LowerLeft || textAlighnment == TextAnchor.LowerRight || textAlighnment == TextAnchor.LowerCenter){
-                textAlighnment = TextAnchor.LowerCenter;
+            if(textIsUpper)
+            {
+                theOriginalTextObject.alignment = TextAnchor.UpperCenter;
+            }else if(textIsLower)
+            {
+                theOriginalTextObject.alignment = TextAnchor.LowerCenter;
             }else{
-                textAlighnment = TextAnchor.MiddleCenter;
+                theOriginalTextObject.alignment = TextAnchor.MiddleCenter;
             }
             
         }
         else if (LocalizationManager.instance.GetLocalizedValue("text_anchor") == "right")
         {
 
-            if (textAlighnment == TextAnchor.UpperLeft || textAlighnment == TextAnchor.UpperRight || textAlighnment == TextAnchor.UpperCenter){
-                textAlighnment = TextAnchor.UpperRight;
+            if (textIsUpper)
+            {
+                theOriginalTextObject.alignment = TextAnchor.UpperRight;
             }
-            else if(textAlighnment == TextAnchor.LowerLeft || textAlighnment == TextAnchor.LowerRight || textAlighnment == TextAnchor.LowerCenter){
-
-                textAlighnment = TextAnchor.LowerRight;
-
+            else if(textIsLower)
+            {
+                theOriginalTextObject.alignment = TextAnchor.LowerRight;
             }
             else
             {
-                textAlighnment = TextAnchor.MiddleRight;
-
+                theOriginalTextObject.alignment = TextAnchor.MiddleRight;
             }
 
         }
         else
         {
-            if(textAlighnment == TextAnchor.UpperLeft || textAlighnment == TextAnchor.UpperRight || textAlighnment == TextAnchor.UpperCenter){
-                textAlighnment = TextAnchor.UpperLeft;
-                }else if(textAlighnment == TextAnchor.LowerLeft || textAlighnment == TextAnchor.LowerRight || textAlighnment == TextAnchor.LowerCenter){
-                textAlighnment = TextAnchor.LowerLeft;
-                }else{
-                    textAlighnment = TextAnchor.MiddleLeft;
+            if(textIsUpper)
+            {
+                theOriginalTextObject.alignment = TextAnchor.UpperLeft;
+            }else if(textIsLower){
+                theOriginalTextObject.alignment = TextAnchor.LowerLeft;
+            }else{
+                theOriginalTextObject.alignment = TextAnchor.MiddleLeft;
             }
         }
-    }
+     }
 
 }
