@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>BrainModes Atlas</title>
+    <script src="%UNITY_WEBGL_LOADER_URL%"></script>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="stylesheet" href="TemplateData/customStyle.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script>
+    
+        window.addEventListener("load", function () {
+
+            var isFirefox = navigator.userAgent.indexOf("Firefox") != -1;
+            var isChrome = navigator.userAgent.indexOf("Chrome") != -1;
+
+
+            if (!isFirefox && !isChrome) {
+                alert("The BrainAtlas is currently supported on Chrome and Firefox browsers for desktop devices. Please open this page in Chrome/Firefox (not on mobile) if you experience any issues.");
+            }
+        });
+
+        var gameInstance = UnityLoader.instantiate("gameContainer", "%UNITY_WEBGL_BUILD_URL%", {
+                onProgress: UnityProgress
+            });
+    </script>
+
+</head>
+<body class="template">
+    <div class="fullWidth">
+        <div id="gameContainer"></div>
+    </div>
+</body>
+
+</html>
+<!DOCTYPE html>

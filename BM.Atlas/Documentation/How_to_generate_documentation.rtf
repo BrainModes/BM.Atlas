@@ -1,0 +1,99 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fmodern\fcharset0 Courier;
+\f3\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;\red0\green0\blue0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Generating doxygen documentation\
+\
+1.- Install graphviz and dot\
+\
+\pard\pardeftab720\sl340\sa280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.graphviz.org/Download_macos.php#comment-2730"}}{\fldrslt 
+\f1\b\fs28 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 howto install on osx 10.11}}
+\f1\b\fs28 \cf3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 \
+\pard\pardeftab720\sl280\partightenfactor0
+
+\b0\fs24 \cf3 Submitted by {\field{\*\fldinst{HYPERLINK "http://www.graphviz.org/users/alterohm"}}{\fldrslt \cf2 \ul \ulc2 \strokec2 alter_ohm}} on Mon, 05/16/2016 - 19:59.\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+\cf3 it took me some time to find out how to install\'a0graphviz v2.38 on osx 10.11.4 and maybe this is helpful to others.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl280\partightenfactor0
+\ls1\ilvl0\cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 log\'a0in &\'a0download\'a0Xcode an Xcode Command Line Tools from\'a0\uc0\u8232 {\field{\*\fldinst{HYPERLINK "https://developer.apple.com/downloads/"}}{\fldrslt \cf2 \ul \ulc2 \strokec2 https://developer.apple.com/downloads/}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 install Xcode and the Xcode Command Line Tools\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 agree to Xcode license in terminal:\'a0\uc0\u8232 
+\i sudo xcodebuild -license
+\i0 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 get MacPorts pkg installer for your version of osx from\'a0\uc0\u8232 {\field{\*\fldinst{HYPERLINK "https://www.macports.org/install.php#installing"}}{\fldrslt \cf2 \ul \ulc2 \strokec2 https://www.macports.org/install.php#installing}}\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 install MacPorts for your version of osx\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 in terminal:\'a0\uc0\u8232 
+\i sudo port -v selfupdate
+\i0 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 install graphviz via\'a0MacPorts. in terminal:\'a0\uc0\u8232 
+\i sudo port install graphviz-gui
+\i0 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 installed\'a0gui application\'a0can be found\'a0here:\'a0/Application/Macports/Graphviz.app\
+\pard\pardeftab720\sl280\sa240\partightenfactor0
+\cf3 \'a0\
+testing the installation:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl280\partightenfactor0
+\ls2\ilvl0\cf3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 create textfile "hello.dot" with TextEdit:\uc0\u8232 
+\i digraph d \{\uc0\u8232 \'a0A [label="Hello"]\u8232 \'a0B [label="World"]\u8232 \'a0C [label="Everyone"]\u8232 \'a0A -> \{ B C \}\u8232 \}
+\i0 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 create png in terminal:\uc0\u8232 
+\i dot -Tpng -O hello.dot
+\i0 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 start\'a0/Application/Macports/Graphviz.app und open\'a0"hello.dot"\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 \
+\pard\tx566\pardeftab720\sl280\partightenfactor0
+\cf3 \
+\
+2.- BrainScores project. Select Charts project. Charts-IO build setting and look for \'93Use Legacy Swift Language Version\'94 and set it to YES\
+\
+3.- 
+\f2 sudo gem install cocoapods NOT WORKED\
+
+\f1 \
+cd BM.Lib/test/\
+\
+pod init\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs22 \cf0 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 open -a TextEdit Podfile\
+
+\f1\fs24 \cf3 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec3 \
+\pard\tx566\pardeftab720\sl280\partightenfactor0
+\cf3 add below # Pods for brainScores\
+\
+pod 'Charts'\
+  pod 'Charts/Realm'\
+\
+\
+4.- Installing carthage (for building chartsRealm inside Charts project)\
+\
+brew install carthage\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs22 \cf0 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 /usr/local/Cellar/carthage/0.18.1: 49 files, 12.4M\
+\
+5.- Open Charts.xcodeproj and compile both Charts and ChartsREalm for generic iOs device\
+}

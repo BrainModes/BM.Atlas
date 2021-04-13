@@ -1,0 +1,366 @@
+{"items":[
+  {
+    "key": "text_anchor",
+    "value": "left"
+  },
+  {
+    "key": "display_language",
+    "value": "English"
+  },
+  {
+    "key": "brain_regions",
+    "value": "Brain Regions"
+  },
+  {
+    "key": "corpuscallosum_title",
+    "value": "corpuscallosum"
+  },
+  {
+    "key": "corpuscallosum_body",
+    "value": "corpuscallosum"
+  },
+  {
+    "key": "FA_title",
+    "value": "Area praecentralis"
+  },
+  {
+    "key": "FA_body",
+    "value": "Laterally this region covers most of the precentral gyrus, its anterior border overlaps with the precentral sulcus and the inferior end continues further down to the Sylvian fissure. The posterior region border is formed by the central sulcus, the inferior border by the sulcus subcentralis. On the medial aspect of the hemisphere the anterior region border is formed by the paracentral sulcus, with the inferior border at the sulcus callosomarginalis. The posterior border on the medial side runs through the fossa paracentralis."
+  },
+  {
+    "key": "FB_title",
+    "value": "Area frontalis agranularis"
+  },
+  {
+    "key": "FB_body",
+    "value": "On the lateral aspect of the brain, the anterior border of this region has been drawn in a straight line up from the sulcus frontalis inferior (starting at the level of the sulcus diagonalis operculi) to the dorsal aspect of the hemisphere and from there down on the medial side to the first branching of the sulcus callosomarginalis. The inferior border is defined by the Sylvian fisssure. Posteriorly (on the lateral aspect of the hemisphere), the region is bordered by the precentral sulcus, medially the border runs along the paracentral sulcus until it reaches the sulcus callosomarginalis."
+  },
+  {
+    "key": "FC_title",
+    "value": "Area frontalis intermedia"
+  },
+  {
+    "key": "FC_body",
+    "value": "The anterior border of this region is drawn as a line going up from the sulcus frontalis inferior along the anterior end of the sulcus frontalis medius to the dorsal aspect of the hemisphere. From there the same line continues down to the sulcus intralimbicus, passing the posterior branches of the sulcus callosomarginalis on its way. The posterior border of this region has been drawn as a line starting at the sulcus frontalis inferior just above the sulcus diagonalis operculi going up to the dorsal aspect of the hemisphere and from there down on the medial side to the first branching of the sulcus callosomarginalis."
+  },
+  {
+    "key": "FCBm_title",
+    "value": "Area (frontalis intermedio agranularis magnocellularis in) Broca"
+  },
+  {
+    "key": "FCBm_body",
+    "value": "This region covers the pars opercularis, bordered on two sides by the Sylvian fissure and its vertical ramus. The other two borders are formed by the inferior branch of the precentral sulcus and the sulcus frontalis inferior."
+  },
+  {
+    "key": "FD_title",
+    "value": "Area frontalis granularis"
+  },
+  {
+    "key": "FD_body",
+    "value": "This region spans a large portion of the frontal lobe. Laterally, its posterior border is formed by a line drawn up from the sulcus frontalis inferior along the anterior end of the sulcus frontalis medius to the dorsal aspect of the hemisphere. From there the same line continues down to the sulcus intralimbicus, passing the posterior branches of the sulcus callosomarginalis on its way. Starting on the medial surface of the hemisphere, its inferior border is drawn as a straight line spanning medially from the most anterior point of the cingulate gyrus to the end of the sulcus orbitalis lateralis on the lateral surface. The posterior border on the lateral surface is formed by the sulcus frontalis inferior and by a line connecting the two ends of the ramus verticalis and horizontalis Sylvii. The final border on the medial aspect is defined as the sulcus intralimbicus."
+  },
+  {
+    "key": "FDdelta_title",
+    "value": "Area frontalis granularis media"
+  },
+  {
+    "key": "FDdelta_body",
+    "value": "The borders of this region are ambiguous. The region has been taken to be on the center of the medial frontal sulcus."
+  },
+  {
+    "key": "FDT_title",
+    "value": "Area frontalis granularis triangularis"
+  },
+  {
+    "key": "FDT_body",
+    "value": "This region covers the gyrus triangularis. It is delineated on three sides by the Sylvian fissure and its ramus verticalis and horizontalis. The fourth border is formed by a line drawn between the ends of both rami."
+  },
+  {
+    "key": "FE_title",
+    "value": "Area frontopolaris"
+  },
+  {
+    "key": "FE_body",
+    "value": "This region covers the pole of the frontal lobe, on the lateral as well as the ventral and medial sides of the hemisphere. On the ventral surface the posterior border of this region runs from the junction of the sulcus orbitalis lateralis and transversalis to the anterior tip of the gyrus rectus. Medially, the inferior border is drawn from the anterior tip of the gyrus rectus to the most inferior point of the cingulate cortex and the superior border is drawn as a straight line spanning medially from the most anterior point of the cingulate gyrus to the end of the sulcus orbitalis lateralis on the lateral surface. Laterally, the inferior border of the region runs from the anterior tip of the gyrus rectus to the end of the ramus horizontalis fissurae Sylvii."
+  },
+  {
+    "key": "FF_title",
+    "value": "Area orbitalis (granularis)"
+  },
+  {
+    "key": "FF_body",
+    "value": "This region occupies a large part of the ventral surface of the frontal lobe and extends from the sulcus olfactorius on the ventral aspect up to the lateral aspect until it reaches the ramus horizontalis fissurae Sylvii. On the ventral aspect its anterior border is drawn as a line spanning from the junction of the sulcus orbitalis lateralis and transversalis to the anterior tip of the gyrus rectus, its posterior border is formed by the margo anterior. On the lateral surface of the hemisphere its anterior border is drawn up from the anterior tip of the gyrus rectus to the end of the ramus horizontalis fissurae Sylvii."
+  },
+  {
+    "key": "FG_title",
+    "value": "Area gyri recti (Ar. recta)"
+  },
+  {
+    "key": "FG_body",
+    "value": "Situated on the anterior ó of the gyrus rectus, the posterior border of this region is drawn as a line perpendicular to the axis of the gyrus rectus. Medially the region extends from the gyrus rectus onto the orbitofrontal cortex, up to the sulcus rostralis superior."
+  },
+  {
+    "key": "FH_title",
+    "value": "Area praefrontalis"
+  },
+  {
+    "key": "FH_body",
+    "value": "Located on the medial and ventral aspect of the frontal lobe, the anterior border of this region is drawn as a straight line from the cingulate sulcus to the most anteriosuperior point of region FG and from there follows the sulcus rostralis superior; at 1/3rd of the distance to the edge of the cortical mantle the line diverges diagonally to the ventral aspect of the gyrus rectus, where it continues in a straight line across the gyrus rectus (at 1/2 of the length of the gyrus) to the sulcus olfactorius. Its posterior border is drawn as a line perpendicular to the axis of the gyrus rectus at 5/6th of the rosto-caudal length of the gyrus. Superiorly the region is bordered by the cingulate sulcus, inferiorly by the sulcus olfactorius."
+  },
+  {
+    "key": "FJK_title",
+    "value": "Area frontoinsularis + Area piriformis frontalis"
+  },
+  {
+    "key": "FJK_body",
+    "value": "This region is situated in the fold between the insular cortex and the edge of the frontal cortex."
+  },
+  {
+    "key": "FLMN_title",
+    "value": "Area parolfactoria + Area geniculata + Area praecommissuralis"
+  },
+  {
+    "key": "FLMN_body",
+    "value": "This region is located on the most caudoinferior edge of the frontal cortex. The extent of this region runs from the cingulate culcus to the edge of the gyrus rectus and the edge of the orbitofrontal gyrus. The region occupies the most caudal 5/6th of the gyrus rectus and its border on the medial aspect of the hemisphere is formed by the sulcus olfactorius."
+  },
+  {
+    "key": "HA_title",
+    "value": "Area uncinata"
+  },
+  {
+    "key": "HA_body",
+    "value": "This region occupies the uncus of the hippocampal gyrus and has been segmented to occupy the thickest portion of the anterior part of the hippocampal gyrus. Superiorly this region is delineated by the sulcus hippocampi. The inferior border is drawn from the most posterior edge of the uncus in a diagonal line (in anterior direction) to the fissura rhinalis."
+  },
+  {
+    "key": "HB_title",
+    "value": "Area parauncinata"
+  },
+  {
+    "key": "HB_body",
+    "value": "Located on the hippocampal gyrus, the anterior border of this region is drawn from the most posterior edge of the uncus in a diagonal line anteriorly to the fissura rhinalis. Posteriorly, the border is drawn from the most posterior edge of the uncus in a straight line down to the fissura rhinalis. Superiorly, the border is defined as the sulcus hippocampi, inferiorly as the fissura rhinalis."
+  },
+  {
+    "key": "HC_title",
+    "value": "Area rhinalis limitans"
+  },
+  {
+    "key": "HC_body",
+    "value": "Situated on the hippocampal gyrus, the anterior border of this region was drawn from the most posterior edge of the uncus in a straight line down to the fissura rhinalis. Posteriorly, the region is delimited by the edge of the hippocampal gyrus, taken as the point where the \"truncus fissurae parietooccipitalis et calcarinae\" ends. Superiorly, the border is defined as the sulcus hippocampi, inferiorly as the fissura rhinalis."
+  },
+  {
+    "key": "IA_title",
+    "value": "Area insulae praecentralis"
+  },
+  {
+    "key": "IA_body",
+    "value": "Located on the anterior part of the insular gyrus, the anterior border of this region is formed by the sulcus brevis primus insulae, while the posterior border is formed by the sulcus centralis insulae. All other borders are defined as the edge of the insular gyrus."
+  },
+  {
+    "key": "IB_title",
+    "value": "Area insulae postcentralis"
+  },
+  {
+    "key": "IB_body",
+    "value": "Located on the posterior part of the insular gyrus, the anterior border of this region is formed by the sulcus centralis insulae. All other borders are defined as the edge of the insular gyrus."
+  },
+  {
+    "key": "LA1_title",
+    "value": "Area limbicus anterior agranularis - praecingularis"
+  },
+  {
+    "key": "LA1_body",
+    "value": "Situated on the upper anterior portion of the cingulate cortex, the posterior border of this region is formed by a line drawn just anterior of the paracentral sulcus, diagonally (in anterior direction) to the sulcus corporis callosi. The superior border is most anteriorly (up to the gyrus frontolimbicus anterior) defined as the sulcus intralimbicus, from there the border coincides with the sulcus callosomarginalis. The inferior border of this region is formed by a line drawn at 1/5th of the width of the cingulate gyrus removed from the superior border; dividing the anterior cingulate cortex into two elongated ribbons."
+  },
+  {
+    "key": "LA2_title",
+    "value": "Area limbicus anterior agranularis - cingularis anterior"
+  },
+  {
+    "key": "LA2_body",
+    "value": "Situated on the lower half of the anterior portion of the cingulate cortex. Its posterior border is formed by the line drawn just anterior of the paracentral sulcus, diagonally (in anterior direction) to the sulcus corporis callosi. Its superior border is a line drawn a distance of 1/5th of the width of the anterior cingulate gyrus away from the sulcus intralimbicus and the sulcus callosomarginalis; dividing the anterior cingulate cortex into two elongated ribbons. The inferior border is the sulcus corporis callosi."
+  },
+  {
+    "key": "LC1_title",
+    "value": "Area cingularis posterior dorsalis"
+  },
+  {
+    "key": "LC1_body",
+    "value": "Situated on the caudal portion of the cingulate cortex and part of the medial superior parietal cortex. The anterior border of this region is formed by the ramus verticalis sulci callosomarginalis. Posterially, the region is bordered by the fissura parietooccipitalis. The superior border of this region is drawn as a curved line drawn in anterior direction from the most superior point of the sulcus subparietalis to the start of the ramus verticalis sulci callosomarginalis and in posterior direction to the fissura parietooccipitalis at the level of the anterior end of the sulcus sagittalis cunei inferior. The region’s superior border was traced from the sulcus callosomarginalis at the level of the Fossa paracentralis in a curved line to the anterior tip of the sulcus subparietalis and from there to a point just below the posterior tip of the sulcus subparietalis, after which it continues to the \"truncus fissurae parietooccipitalis et calcarinae\"."
+  },
+  {
+    "key": "LC2_title",
+    "value": "Area cingularis posterior ventralis"
+  },
+  {
+    "key": "LC2_body",
+    "value": "This region is situated on the caudal portion of the limbic lobe. Its anterior border divides the cingulate cortex just anterior of the paracentral sulcus, diagonally (in anterior direction) to the sulcus corporis callosi. Its posterior border is formed by the \"truncus fissurae parietooccipitalis et calcarinae\". The region’s superior border is less obvious, it was traced from the sulcus callosomarginalis at the height of the Fossa paracentralis in a curved line to the anterior tip of the sulcus subparietalis and from there to a point just below the posterior tip of the sulcus subparietalis, after which it continues to the \"truncus fissurae parietooccipitalis et calcarinae\". The inferior border is for the most anterior portion of the region formed by the sulcus corporis callosi. More posteriorly the border diverges away from the sulcus corporis callosi towards the truncus fissurae parietooccipitalis et calcarinae."
+  },
+  {
+    "key": "LC3_title",
+    "value": "Area cingularis limitans posterior"
+  },
+  {
+    "key": "LC3_body",
+    "value": "This small region occupies a portion of the gyrus intralimbicus and a small edge of the limbic gyrus, bordered anteriorly at the same height as region LC2 and posteriorly at the height of the fossa paracentralis."
+  },
+  {
+    "key": "LD_title",
+    "value": "Area retrosplenialis agranularis"
+  },
+  {
+    "key": "LD_body",
+    "value": "Occupies the edge between the limbic gyrus and the intralimbic gyrus, starting at the height of the fossa paracentralis and ending at the \"truncus fissurae parietooccipitalis et calcarinae\"."
+  },
+  {
+    "key": "LE_title",
+    "value": "Area retrosplenialis granulosa"
+  },
+  {
+    "key": "LE_body",
+    "value": "Occupies the intralimbic gyrus starting at the height of the fossa paracentralis up to the posterior edge of the hippocampal gyrus."
+  },
+  {
+    "key": "OA_title",
+    "value": "Area peristriata"
+  },
+  {
+    "key": "OA_body",
+    "value": "Anteriorly on the lateral surface this region is bordered by a line starting at the intersection between the sulcus occipitalis primus and the sulcus parietalis transversus. From this intersection the line goes down towards the ventral surface just posterior of the Incisura praeoccipitalis and continues on the medial side parallel to the calcarine sulcus to the \"truncus fissurae parietooccipitalis et calcarinae\". Laterally, up from the aforementioned intersection, the line goes to the fissura parietooccipitalis on the superior aspect of the hemisphere and follows this fissure to the medial side. The posterior border on the lateral surface is placed parallel and just anterior of the sulcus lunatus. On the medial aspect, one line descends from the superior surface and follows the sulcus sagittalis cunei inferior until it reaches the fissura parietooccipitalis. The second border line ascends from the ventral surface and runs parallel to the calcarine sulcus, intersecting with the anterior branch point of the sulcus lingualis."
+  },
+  {
+    "key": "OB_title",
+    "value": "Area parastriata"
+  },
+  {
+    "key": "OB_body",
+    "value": "Laterally occupies the zone from the edge of the occipital pole up to just anterior of the sulcus lunatus. Medially lies between the lip of the calcarine sulcus and region OA."
+  },
+  {
+    "key": "OC_title",
+    "value": "Area striata (granulosa)"
+  },
+  {
+    "key": "OC_body",
+    "value": "This region occupies the walls and lip of the calcarine sulcus, as well as the occipital pole."
+  },
+  {
+    "key": "PA_title",
+    "value": "Area postcentralis gigantopyrimidalis + Area postparacentralis gigantopyrimidalis"
+  },
+  {
+    "key": "PA_body",
+    "value": "Laterally occupies the anterior wall of the central sulcus, medially extends out from the central sulcus onto the paracentral lobule with its anterior boundary running through the fossa paracentralis. Its inferior border is defined by the sulcus callosomarginalis, ventrally it follows the ramus verticalis of the sulcus callosomarginalis back up to the dorsal aspect, where it covers a small portion of the postcentral gyrus up to the end of the sulcus postcentralis superior."
+  },
+  {
+    "key": "PB_title",
+    "value": "Area postcentralis oralis simplex + Area postcentralis oralis granulosa"
+  },
+  {
+    "key": "PB_body",
+    "value": "This region lies on the posterior wall of the central sulcus and extends out halfway onto the paracentral lobule."
+  },
+  {
+    "key": "PC_title",
+    "value": "Area postcentralis intermedia"
+  },
+  {
+    "key": "PC_body",
+    "value": "Laterally this region covers the postcentral gyrus, except for the parietal operculum, medially it extends onto the paracentral lobule, where it covers a narrow strip 1/4th of the width of the lobule and 2/3rd of the height."
+  },
+  {
+    "key": "PD_title",
+    "value": "Area postcentralis caudalis"
+  },
+  {
+    "key": "PD_body",
+    "value": "Is situated in the sulcus postcentralis and its branches."
+  },
+  {
+    "key": "PE_title",
+    "value": "Area parietalis superior"
+  },
+  {
+    "key": "PE_body",
+    "value": "Laterally this region spans from a line connecting the sulcus postcentralis superior and the ramus verticalis of the sulcus callosomarginalis to a line between the sulcus parietalis transversus and the fissura parietooccipitalis. Its ventral border is formed by the edge of the sulcus interparietalis. Medially, it is located between the ramus verticalis of the sulcus callosomarginalis and the fissura parietooccipitalis, with its ventral border drawn as a curved line starting at the beginning of the ramus verticalis sulci callosomarginalis running posteriorly along the most superior point of the sulcus subparietalis down to to the fissura parietooccipitalis at the height of the anterior end of the sulcus sagittalis cunei inferior."
+  },
+  {
+    "key": "PF_title",
+    "value": "Area supramarginalis"
+  },
+  {
+    "key": "PF_body",
+    "value": "Covers the gyrus supramarginalis, including the parietal operculum and the operculum Rolando. Its superior border is formed by the sulcus postcentralis inferior and the interparietal sulcus. The posterior border extends from the sulcus intermedius down to the inferior end of the caudal branch of the sulcus temporalis superior, from where the inferior border of the region runs to the ramus posterior fissurae Sylvii."
+  },
+  {
+    "key": "PG_title",
+    "value": "Area angularis"
+  },
+  {
+    "key": "PG_body",
+    "value": "Lies on the angular gyrus, with its anterior border formed by a line extending from the sulcus intermedius down to the end of the caudal branch of the sulcus temporalis, from where its inferior border extends to the sulcus occipitalis secundus lateralis at the height of the inferior end of the sulcus occipitalis lateralis primus. Its posterior border is formed by the sulcus occipitalis lateralis primus and the interparietal sulcus."
+  },
+  {
+    "key": "PH_title",
+    "value": "Area parietalis (temporo-occipital) basalis"
+  },
+  {
+    "key": "PH_body",
+    "value": "Described as the basal portion of the parietal lobe, laterally the anterior border of this region is formed by a line stretching from the caudal branch of the superior temporal sulcus to the beginning of the main superior temporal sulcus, connecting down along the posterior end of the inferior temporal sulcus where it continues onto the ventral portion of the temporal lobe. There region PH runs all the way to the \"truncus fissurae parietooccipitalis et calcarinae\" on the medial side parallel to region OA, covering a strip of the most posterior section 1/5th of the fusiform gyrus and 1/4th of the gyrus retrolimbicus."
+  },
+  {
+    "key": "TA_title",
+    "value": "Area temporalis superior"
+  },
+  {
+    "key": "TA_body",
+    "value": "Covers part of the dorsal and lateral aspect of the superior temporal lobe, with its border starting at the ramus posterior fissurae Sylvii, running to the superior temporal sulcus which it follows for 1/3rd of the length of the temporal lobe. There the border extends upwards to the Margo posterior sulci circularis."
+  },
+  {
+    "key": "TB_title",
+    "value": "Area supratemporalis magnocellularis simplex"
+  },
+  {
+    "key": "TB_body",
+    "value": "Lies within region TA, only on the dorsal aspect of the superior temporal lobe. Its outer border is drawn such that region TB is not visible on the lateral view of the hemisphere. This region covers 2/3rd of the dorsal superior temporal gyrus delineated by region TA. Region TC and TD are situated within TB."
+  },
+  {
+    "key": "TC_title",
+    "value": "Area supratemporalis granulosa"
+  },
+  {
+    "key": "TC_body",
+    "value": "Is drawn to cover the middle 1/3rd of region TB, it lies flush with the margo posterior sulci circularis insulae and leaves 1/5th of the most posterior surface of TB open for region TD."
+  },
+  {
+    "key": "TD_title",
+    "value": "Area supratemporalis intercalata"
+  },
+  {
+    "key": "TD_body",
+    "value": "Is situated on the most posterior part of the dorsal surface of the superior temporal gyrus, just below the parietal operculum. Posterior-anterior it extends about 1/5th of the length of TB from the parietal operculum."
+  },
+  {
+    "key": "TE_title",
+    "value": "Area temporalis propria"
+  },
+  {
+    "key": "TE_body",
+    "value": "The largest temporal region. Laterally this region covers 1/3rd of the posterior part of the superior temporal gyrus and the posterior 2/3rd of the middle and inferior temporal gyrus."
+  },
+  {
+    "key": "TF_title",
+    "value": "Area fusiformis"
+  },
+  {
+    "key": "TF_body",
+    "value": "Covers the anterior 4/5th of the fusiform gyrus."
+  },
+  {
+    "key": "TG_title",
+    "value": "Area temporoporalis"
+  },
+  {
+    "key": "TG_body",
+    "value": "This region covers the anterior tip of the temporal lobe, as well as the most anterior 1/3rd of the superior, middle and inferior temporal gyrus."
+  }
+]}

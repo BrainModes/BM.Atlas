@@ -1,0 +1,206 @@
+{"items":[
+  {
+    "key": "text_anchor",
+    "value": "left"
+  },
+  {
+    "key": "display_language",
+    "value": "English"
+  },
+  {
+    "key": "close",
+    "value": "Close"
+  },
+  {
+    "key": "ok",
+    "value": "OK"
+  },
+  {
+    "key": "next",
+    "value": "Next"
+  },
+  {
+    "key": "back",
+    "value": "Back"
+  },
+  {
+    "key": "help",
+    "value": "Help"
+  },
+  {
+    "key": "stars_tooltip",
+    "value": "Tap stars for more info."
+  },
+  {
+    "key": "intro_on_menu_load",
+    "value": "Welcome to the BrainModes app.\n\nThis app will show you different visualizations of the brain, built using real brain data recordings and simulations. Explore the visualisations using the touchscreen. You can rotate the models by dragging, and zoom in and out by pinching.\n\nTouch these stars to read more about different aspects of the visualizations, and find out how we study the brain."
+  },
+  {
+    "key": "intro_brain",
+    "value": "Here you can see the locations on the scalp where electrodes are placed during an EEG (or electroencephalograph) examination. EEG is a non-invasive procedure - it\u2019s kind of like putting on a swimming cap covered in cables. The positions where the brain activity is measured during an EEG follow the 10-20 system, which is a standard grid of locations on the surface of the head. Using this system makes it easier to refer to specific locations in a standardised way. For example, \u201cF\u201d means frontal (the front of the head) and \u201cO\u201d means occipital (the back of the head)."
+  },
+  {
+    "key": "press_enable_traces",
+    "value": "Press the star to see the signal from the electrodes."
+  },
+  {
+    "key": "intro_on_traces_enabled",
+    "value": "These two lines are graphing the electrical activity detected by the electrodes on the surface of the head, and that electrical activity is produced by neurons in the brain. This technology is called electroencephalography, or EEG. Certain types of EEG activity on different parts of the head can give us clues about the brain\u2019s state and whether it is healthy or diseased. Using personalised computational brain models we can infer more precisely what the brain is \u201cdoing\u201d. Learn more about what EEG means in the Time Series, EEG Rhythms, Scalp Surface and Cortical Surface visualisations."
+  },
+  {
+    "key": "menu_info",
+    "value": "This is the main menu of the app. Here you can select different brain visualizations, and learn more about them. If you\u2019re not sure where to start, try the Time Series button."
+  },
+  {
+    "key": "timeseries_info",
+    "value": "This graph shows the activity of a person\u2019s brain, measured by an EEG (or electroencephalograph) examination. Each line represents the brain activity measured at a specific position on the head. An EEG examination measures the electrical activity of the brain using small conductive metal discs (electrodes) placed on the scalp. The electrical activity of the brain occurs when brain cells (neurons) process information. This happens all the time, even when you are asleep. An EEG scan might help to diagnose brain or sleep disorders, such as a tumour, epilepsy or narcolepsy. "
+  },
+  {
+    "key": "timeseries_raw",
+    "value": "Here we see the raw EEG data in the graph. The data has not yet been filtered to remove electrical activity that is not caused by brainwaves. See the spikes repeating in the graph? They are caused by  the person blinking, because eye movement creates electrical activity, just like the brain. You can also see the heartbeat recurring, which is subtly affecting the electrical activity we are reading from the surface of the brain."
+  },
+  {
+    "key": "timeseries_alpha",
+    "value": "Here we see filtered EEG data, only showing the Alpha frequency which is 8-12 Hz. This is a slow oscillating wave, fluctuating up and down, kind of like waves on the ocean. It can be seen in most people when they close their eyes. Its presence often indicates a relaxed brain state, such as when you are feeling at peace or relaxing with your eyes closed."
+  },
+  {
+    "key": "timeseries_beta",
+    "value": "Here we see the data filtered just to show the Beta frequency which is 13-32 Hz. It is a much faster and less regular wave than Alpha. Beta is a lot more busy, and it\u2019s power can often be associated with a focused or concentrated active state, such as when taking a test or focusing on an interesting task."
+  },
+  {
+    "key": "timeseries_gamma",
+    "value": "Here we see the Gamma wave. Gamma is a very fast and low amplitude frequency from 32-100 Hz. It is predominant in some brain regions during intense cognitive processing of incoming sensory information and during learning and problem solving."
+  },
+  {
+    "key": "timeseries_theta",
+    "value": "Here is the data again, but filtered to show just the Theta frequency from 4-8 Hz. It\u2019s even slower than the Alpha frequency, but much more irregular in its waves. This frequency is associated with memory formation and recollection, creativity, insight, sleep and dreaming."
+  },
+  {
+    "key": "timeseries_delta",
+    "value": "Here the data is filtered so we just see the Delta wave, which is the slowest of them all - from 0.5 - 4 Hz. It is only predominant when we are in deep sleep - when  we are not easy to wake up and our body is recovering from the day."
+  },
+  {
+    "key": "eeg_rhythems_info",
+    "value": "This graph shows the power of every EEG frequency at the same time: alpha, beta, delta, theta and gamma. Each frequency is associated with different brain activities, such as relaxation, focus, creativity and sleep. As you can see, it\u2019s constantly fluctuating - the brain is always changing and never stops no matter what activity you are doing. Click on the different wave types (Alpha, Theta, Gamma, etc) to find out more about them. "
+  },
+  {
+    "key": "eeg_rhythems_alpha",
+    "value": "When the line gets close to Alpha, that means the Alpha waves are strong. You can see the line oscillating in and out rather slowly compared to the other frequencies, because alpha waves are slow and repetitive. This is called an Alpha rhythm, and is associated with a calm and relaxed state of mind."
+  },
+  {
+    "key": "eeg_rhythems_beta",
+    "value": "Beta waves are associated with being focused. You can see the line occasionally jump around close to the Beta symbol, and this means that the person may be experiencing a fleeting moment of concentration."
+  },
+  {
+    "key": "eeg_rhythems_gamma",
+    "value": "Gamma is a higher frequency wave. It is associated with processing of incoming sensory information, problem solving and learning."
+  },
+  {
+    "key": "eeg_rhythems_theta",
+    "value": "Theta is associated with memory formation and recollection, or states of mind that are not quite awake - such as when you are overly tired and drifting in and out of sleep. The lines may dip here now and then, but you will notice they don't stay here as much as they go to Alpha, Beta and Gamma. This could be because this recording was made when the person was just sitting around not doing anything inside an MRI machine with an EEG cap on. It\u2019s quite loud in there, so I doubt they were very relaxed or were able to sleep."
+  },
+  {
+    "key": "eeg_rhythems_delta",
+    "value": "Delta is a wave associated with deep sleeping, even dreamless sleep. You may be wondering why you see the line approach Delta now and then when we know this recording was done on an awake person. This is an error in the recording. Making an EEG recording is difficult because we are reading electricity generated from the brain through the surface of the skin, there\u2019s a lot that can interfere with how accurate that reading is, such as: blinking, facial expressions, body movements, and even the lighting or wifi in the room. All these things make electricity and interrupt data from the brain. We call these non-brain events \u201cartefacts\u201d and try to filter them out."
+  },
+  {
+    "key": "scalp_surface_info",
+    "value": "The graphs and models in this app are taken from an MRI (magnetic resonance imaging) + EEG (electroencephalograph) scan of one person. We use that data to build this 3D model of their head, and we color the surface using the EEG data. The EEG is taken from a few finger-tip sized sensors, but you can see the whole head is covered with color, not just the sensors. So how can we visualise all of this brain activity from a scan done with just a few small sensors? We are able to do this using a mathematical model of how the brain works. This model is called The Virtual Brain, and it helps us to guess what the rest of the brain is doing. "
+  },
+  {
+    "key": "scalp_surface_raw",
+    "value": "In this visualisation, high activity is represented by red, and low activity is represented by blue. You\u2019ve probably noticed that the activity level is fluctuating quite wildly all over the brain. This is very normal, and almost anyone\u2019s brain looks like this when they are not doing anything. Sometimes we call this \u201cidle\u201d or \u201cresting state\u201d. Basically, the person whose brain we were recording was not given any tasks or activities during the recording. If the person was given a task, we may see a different pattern of activity. For example, if they were watching a video we would see high activity in the back of the brain, in an area called the occipital lobe. \n\nSelect different brain activity types to see the activity projected onto the scalp."
+  },
+  {
+    "key": "scalp_surface_alpha",
+    "value": "Alpha frequencies are associated with relaxation, and can be very prominent in the occipital region (the back of the brain) when the eyes are closed. The intensity of the alpha rhythm is reduced when the eyes are open, or while drowsy. You may see alpha activity more intensely at the back of the scalp."
+  },
+  {
+    "key": "scalp_surface_beta",
+    "value": "Beta frequencies are present during normal waking consciousness. If someone has their eyes closed, and then they open them, you can typically see an increase in beta activity. Beta activity on the lower frequency of the spectrum can indicate concentration, anxiety or stress. It\u2019s not likely that you will see very much beta activity in this visualization, but if you do it could be anywhere on the scalp. "
+  },
+  {
+    "key": "scalp_surface_gamma",
+    "value": "Gamma is most present during processing of incoming sensory information, problem solving and learning. It\u2019s often seen in the frontal, parietal and temporal regions of the brain, so you may see this activity more intensely in the front, top and sides of the scalp."
+  },
+  {
+    "key": "scalp_surface_theta",
+    "value": "It is thought that most of the Theta activity originates from the thalamus and hippocampus in humans. These are small regions in the centre of the brain, far away from the surface. Theta can be observed coming from many parts of the brain during dreaming sleep, meditation, navigation, and memory tasks. You may see this activity faintly anywhere across the scalp."
+  },
+  {
+    "key": "scalp_surface_delta",
+    "value": "Delta is associated with deep dreamless sleep, and it\u2019s intensity is a good indicator of how deep someone is sleeping. It is the slowest possible brainwave that we know about in humans. Delta waves originate from the thalamus and the cortex. The thalamus is a small region in the centre of the brain so it\u2019s not visible in this visualization, but when delta is present it will also induce growth hormone production from the pituitary gland nearby. The cortex is the whole exterior surface of the brain, close to the surface of the scalp. You will likely not see delta activity in this visualization, since the data came from a person in a very loud MRI machine. If you do happen to see some, it is likely very faint, or an error in the data recording."
+  },
+  {
+    "key": "cortical_surface_info",
+    "value": "This model of the person\u2019s cortex is constructed from MRI (magnetic resonance imaging) + EEG (electroencephalograph)  scans of their brain. The MRI takes pictures of the inside of the head, and using software we can make a 3D model of just the face and brain. This model is similar to the scalp surface visualisation. Imagine the EEG data read from the surface of the scalp was projected onto the brain inside - that\u2019s what we see in this visualisation."
+  },
+  {
+    "key": "cortical_surface_raw",
+    "value": "Just like in the scalp surface visualisation, this cortex is covered in fluctuating colors. The brain is always changing - even while resting. You may occasionally see the brain turn dark grey in some spots for a moment; this means there was an error during the EEG scan. This can be for many reasons, such as interference from the person blinking, moving, or even lights in the MRI room - all of which produce small amounts of electrical current which interfere in the recording. We can filter out some of these mistakes, but when there are too many we can\u2019t guess what the brain is doing, and so in this model we leave those parts dark grey to symbolise the missing data.\n\nSelect different brain activity types to see the activity projected onto the cortex."
+  },
+  {
+    "key": "cortical_surface_alpha",
+    "value": "Alpha frequencies are associated with relaxation, and can be very prominent in the occipital region (the back of the brain) when the eyes are closed. The intensity of the alpha rhythm is reduced when the eyes are open, or while drowsy. You may see alpha activity more intensely at the back of the cortex."
+  },
+  {
+    "key": "cortical_surface_beta",
+    "value": "Beta frequencies are present during normal waking consciousness. If someone has their eyes closed, and then they open them, you can typically see an increase in beta activity. Beta activity on the lower frequency of the spectrum can indicate concentration, anxiety or stress. It\u2019s not likely that you will see very much beta activity in this visualization, but if you do it could be anywhere on the cortex."
+  },
+  {
+    "key": "cortical_surface_gamma",
+    "value": "Gamma is most present during processing of incoming sensory information, problem solving and learning. It\u2019s often seen in the frontal, parietal and temporal regions of the brain, so you may see this activity more intensely in the front, top and sides of the cortex."
+  },
+  {
+    "key": "cortical_surface_theta",
+    "value": "It is thought that most of the Theta activity originates from the thalamus and hippocampus in humans. These are small regions in the centre of the brain, far away from the surface. Theta can be observed coming from many parts of the brain during dreaming sleep, meditation, navigation, and memory tasks. You may see this activity faintly anywhere across the cortex."
+  },
+  {
+    "key": "cortical_surface_detla",
+    "value": "Delta is associated with deep dreamless sleep, and it\u2019s intensity is a good indicator of how deep someone is sleeping. It is the slowest possible brainwave that we know about in humans. Delta waves originate from the thalamus and the cortex. The thalamus is a small region in the centre of the brain so it\u2019s not visible in this visualization, but when delta is present it will also induce growth hormone production from the pituitary gland nearby. The cortex is the whole exterior surface of the brain, close to the surface of the scalp. You will likely not see delta activity in this visualization, since the data came from a person in a very loud MRI machine. If you do happen to see some, it is likely very faint, or an error in the data recording."
+  },
+  {
+    "key": "cortical_parcellation_info",
+    "value": "This brain model is similar to the cortical visualisation you may have seen previously, except it has been divided into sections. This is called parcellation, and it\u2019s based on a standard atlas of a brain mapped to this unique individual\u2019s brain. Different regions - or collections of regions - are generally associated with certain activities, such as hearing, seeing, remembering, learning, and so on. In our lab, we study how the regions work together using The Virtual Brain - a platform for simulating personalised brain network models. You can see this in action here. The animated colors and lights are a simulation of this person\u2019s brain activity, based on the MRI and EEG recordings you may have seen previously in the time series, EEG rhythms, scalp and cortical visualisations. In this visualisation, we see different regions active at different times and different combinations, as The Virtual Brain simulates a best guess at what that person's brain is doing based on the data and mathematical models of how the brain works. "
+  },
+  {
+    "key": "cortical_parcellation_raw",
+    "value": "Similar to the cortical surface visualisation, this cortex is fluctuating with many colors. The brain is always changing - even while resting. This model is different from the cortical surface model in that it shows activity inside the brain. Clusters of color represent the origin of brain activity inside the brain, and the location may indicate what kind of brain activity it is. For example, activity near the top of the cortex can be related to real or imagined motor tasks, such as moving the body.\n\nSelect different brain activity types to see the activity projected onto the cortex."
+  },
+  {
+    "key": "cortical_parcellation_alpha",
+    "value": "Alpha frequencies are associated with relaxation, and can be very prominent in the occipital region (the back of the brain) when the eyes are closed. The intensity of the alpha rhythm is reduced when the eyes are open, or while drowsy. You may see alpha activity more intensely at the back of the brain."
+  },
+  {
+    "key": "cortical_parcellation_beta",
+    "value": "Beta frequencies are present during normal waking consciousness. If someone has their eyes closed, and then they open them, you can typically see an increase in beta activity. Beta activity on the lower frequency of the spectrum can indicate concentration, anxiety or stress. It\u2019s not likely that you will see very much beta activity in this visualization, but if you do it could be anywhere in the brain."
+  },
+  {
+    "key": "cortical_parcellation_theta",
+    "value": "It is thought that most of the Theta activity originates from the thalamus and hippocampus in humans. These are small regions in the centre of the brain, far away from the surface. Theta can be observed coming from many parts of the brain during dreaming sleep, meditation, navigation, and memory tasks. You may see this activity faintly anywhere in the brain."
+  },
+  {
+    "key": "cortical_parcellation_gamma",
+    "value": "Gamma is most present during processing of incoming sensory information, problem solving and learning. It\u2019s often seen in the frontal, parietal and temporal regions of the brain, so you may see this activity more intensely in the front, top and sides of the brain."
+  },
+  {
+    "key": "cortical_parcellation_detla",
+    "value": "Delta is associated with deep dreamless sleep, and it\u2019s intensity is a good indicator of how deep someone is sleeping. It is the slowest possible brainwave that we know about in humans. Delta waves originate from the thalamus and the cortex. The thalamus is a small region in the centre of the brain, and when delta is present it will also induce growth hormone production from the pituitary gland nearby. You will likely not see delta activity in this visualization, since the data came from a person in a very loud MRI machine. If you do happen to see some, it is likely very faint, or an error in the data recording."
+  },
+  {
+    "key": "volumetric_data_info",
+    "value": "Pull the sliders to see the sets of images made during an MRI (magnetic resonance imaging) scan. Here you can slide through sets of images of the brain made with an MRI. "
+  },
+  {
+    "key": "volumetric_data_slider",
+    "value": "You can see the images go from ear to ear, or from the chin to top of the head, or from the nose to the back of the head in tiny steps. Using this series of 2D images, we can make the 3D models that you see in the rest of this app - for example the models of the face and scalp and the brain. We also use this anatomical data, which is unique to each person (like a fingerprint), to inform the simulations and to fit them more accurately to that individual. We can use images like this to make a personalised simulation of  any person's brain - including yours! This personalisation is important, because there is no brain model that represents each unique brain accurately. We can use personalised brain simulations to study and treat brain diseases like Alzheimer's, stroke, coma, and epilepsy."
+  },
+  {
+    "key": "connectivity_model",
+    "value": "This visualisation shows the white matter tracts inside the brain. White matter tracts are pathways that brain signals travel along, delivering information to different parts of the brain. They form an anatomical structure that is unique to every person. The colors in this particular model represent the direction the signal travels in, as you can see some signal paths are quite twisty as they flow through many parts of the brain."
+  },
+  {
+    "key": "connectivity_firing_rates",
+    "value": "In the tractography visualisation, we saw the paths that information flows along through the brain and in this visualisation we can also see the information flowing along those paths. Who is sending and receiving this information? Neurons in the brain! Here we can see the path that the signals take, but only a small fraction of the real information flow in the brain. You could think of these signals as blips of communication, or like cars on the streets and highways of a city, delivering passengers between locations. The pathways, speed and intensity of the signals provide important information and can help us diagnose specific problems. For example, if the communication is very intense and repetitive in one part of the brain, and that communication pattern propagates through the brain network, we know that the owner of that brain is experiencing a seizure."
+  }
+]}

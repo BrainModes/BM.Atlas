@@ -1,0 +1,206 @@
+{"items":[
+  {
+    "key": "text_anchor",
+    "value": "left"
+  },
+  {
+    "key": "display_language",
+    "value": "Deutsch"
+  },
+  {
+    "key": "close",
+    "value": "Schlie\u00dfen"
+  },
+  {
+    "key": "ok",
+    "value": "OK"
+  },
+  {
+    "key": "next",
+    "value": "N\u00e4chster"
+  },
+  {
+    "key": "back",
+    "value": "Zur\u00fcck"
+  },
+  {
+    "key": "help",
+    "value": "Hilfe"
+  },
+  {
+    "key": "stars_tooltip",
+    "value": "Tippen Sie auf Sterne, um weitere Info zu erhalten."
+  },
+  {
+    "key": "intro_on_menu_load",
+    "value": "Willkommen in der BrainModes-App.\n\nDiese App zeigt Ihnen verschiedene Visualisierungen des Gehirns, die mit realen Gehirndatenaufzeichnungen und -simulationen erstellt wurden. Erkunden Sie die Visualisierungen mithilfe des Touchscreens. Sie k\u00f6nnen die Modelle durch Ziehen drehen und durch Kneifen vergr\u00f6\u00dfern und verkleinern.\n\nBer\u00fchren Sie diese Sterne, um mehr \u00fcber verschiedene Aspekte der Visualisierungen zu erfahren und herauszufinden, wie wir das Gehirn untersuchen."
+  },
+  {
+    "key": "intro_brain",
+    "value": "Hier sehen Sie die Stellen auf der Kopfhaut, an denen Elektroden w\u00e4hrend einer EEG- (oder Elektroenzephalograph-) Untersuchung platziert werden. Das EEG ist ein nicht-invasives Verfahren - es ist so, als w\u00fcrde man eine mit Kabeln bedeckte Badekappe aufsetzen. Die Positionen, an denen die Gehirnaktivit\u00e4t w\u00e4hrend eines EEG gemessen wird, folgen dem 10-20-System, einem Standardraster von Stellen auf der Oberfl\u00e4che des Kopfes. Die Verwendung dieses Systems erleichtert die standardisierte Bezugnahme auf bestimmte Standorte. Zum Beispiel bedeutet \"F\" frontal (die Vorderseite des Kopfes) und \"O\" bedeutet okzipital (die R\u00fcckseite des Kopfes)."
+  },
+  {
+    "key": "press_enable_traces",
+    "value": "Dr\u00fccken Sie den Stern, um das Signal von den Elektroden zu sehen."
+  },
+  {
+    "key": "intro_on_traces_enabled",
+    "value": "Diese beiden Linien zeichnen die elektrische Aktivit\u00e4t auf, die von den Elektroden auf der Oberfl\u00e4che des Kopfes erfasst wird, und diese elektrische Aktivit\u00e4t wird von Neuronen im Gehirn erzeugt. Diese Technologie wird als Elektroenzephalographie oder EEG bezeichnet. Bestimmte Arten von EEG-Aktivit\u00e4ten an verschiedenen Stellen des Kopfes k\u00f6nnen uns Hinweise auf den Zustand des Gehirns geben und darauf, ob es gesund oder krank ist. Mithilfe personalisierter rechnergest\u00fctzter Gehirnmodelle k\u00f6nnen wir genauer ableiten, was das Gehirn \u201etut\u201c. Erfahren Sie mehr \u00fcber die Bedeutung von EEG in den Visualisierungen Zeitreihen, EEG-Rhythmen, Kopfhautoberfl\u00e4che und kortikale Oberfl\u00e4che."
+  },
+  {
+    "key": "menu_info",
+    "value": "Dies ist das Hauptmen\u00fc der App. Hier k\u00f6nnen Sie verschiedene Gehirnvisualisierungen ausw\u00e4hlen und mehr dar\u00fcber erfahren. Wenn Sie nicht sicher sind, wo Sie anfangen sollen, klicken Sie auf die Schaltfl\u00e4che Zeitreihe."
+  },
+  {
+    "key": "timeseries_info",
+    "value": "Diese Grafik zeigt die Aktivit\u00e4t des Gehirns einer Person, gemessen durch eine EEG- (oder Elektroenzephalograph-) Untersuchung. Jede Linie repr\u00e4sentiert die Gehirnaktivit\u00e4t, die an einer bestimmten Position am Kopf gemessen wurde. Eine EEG-Untersuchung misst die elektrische Aktivit\u00e4t des Gehirns mit kleinen leitf\u00e4higen Metallscheiben (Elektroden) auf der Kopfhaut. Die elektrische Aktivit\u00e4t des Gehirns tritt auf, wenn Gehirnzellen (Neuronen) Informationen verarbeiten. Dies passiert die ganze Zeit, auch wenn Sie schlafen. Ein EEG-Scan kann bei der Diagnose von Gehirn- oder Schlafst\u00f6rungen wie Tumor, Epilepsie oder Narkolepsie hilfreich sein."
+  },
+  {
+    "key": "timeseries_raw",
+    "value": "Hier sehen wir die EEG-Rohdaten in der Grafik. Die Daten wurden noch nicht gefiltert, um elektrische Aktivit\u00e4ten zu entfernen, die nicht durch Gehirnwellen verursacht werden. Sehen Sie, wie sich die Spitzen in der Grafik wiederholen? Sie werden durch das Blinken der Person verursacht, weil Augenbewegungen wie das Gehirn elektrische Aktivit\u00e4t erzeugen. Sie k\u00f6nnen auch sehen, wie der Herzschlag wiederkehrt, was die elektrische Aktivit\u00e4t, die wir von der Oberfl\u00e4che des Gehirns lesen, auf subtile Weise beeinflusst."
+  },
+  {
+    "key": "timeseries_alpha",
+    "value": "Hier sehen wir gefilterte EEG-Daten, die nur die Alpha-Frequenz von 8-12 Hz zeigen. Dies ist eine langsam oszillierende Welle, die auf und ab schwankt, \u00e4hnlich wie Wellen auf dem Ozean. Es kann bei den meisten Menschen gesehen werden, wenn sie ihre Augen schlie\u00dfen. Seine Anwesenheit weist oft auf einen entspannten Gehirnzustand hin, z. B. wenn Sie sich in Frieden f\u00fchlen oder sich mit geschlossenen Augen entspannen."
+  },
+  {
+    "key": "timeseries_beta",
+    "value": "Hier sehen wir die Daten nur gefiltert, um die Beta-Frequenz von 13-32 Hz anzuzeigen. Es ist eine viel schnellere und weniger regelm\u00e4\u00dfige Welle als Alpha. Beta ist viel besch\u00e4ftigter und seine Leistung kann oft mit einem fokussierten oder konzentrierten aktiven Zustand verbunden sein, z. B. wenn Sie einen Test machen oder sich auf eine interessante Aufgabe konzentrieren."
+  },
+  {
+    "key": "timeseries_gamma",
+    "value": "Hier sehen wir die Gammawelle. Gamma ist eine sehr schnelle Frequenz mit niedriger Amplitude von 32-100 Hz. Es ist in einigen Gehirnregionen w\u00e4hrend der intensiven kognitiven Verarbeitung eingehender sensorischer Informationen sowie w\u00e4hrend des Lernens und der Probleml\u00f6sung vorherrschend."
+  },
+  {
+    "key": "timeseries_theta",
+    "value": "Hier sind die Daten noch einmal, aber gefiltert, um nur die Theta-Frequenz von 4-8 Hz anzuzeigen. Es ist noch langsamer als die Alpha-Frequenz, aber in seinen Wellen viel unregelm\u00e4\u00dfiger. Diese Frequenz ist verbunden mit Ged\u00e4chtnisbildung und Erinnerung, Kreativit\u00e4t, Einsicht, Schlaf und Tr\u00e4umen."
+  },
+  {
+    "key": "timeseries_delta",
+    "value": "Hier werden die Daten gefiltert, sodass wir nur die Delta-Welle sehen, die die langsamste von allen ist - von 0,5 bis 4 Hz. Es ist nur dann vorherrschend, wenn wir im Tiefschlaf sind - wenn wir nicht leicht aufzuwachen sind und unser K\u00f6rper sich vom Tag erholt."
+  },
+  {
+    "key": "eeg_rhythems_info",
+    "value": "Diese Grafik zeigt die Leistung jeder EEG-Frequenz gleichzeitig: Alpha, Beta, Delta, Theta und Gamma. Jede Frequenz ist mit unterschiedlichen Gehirnaktivit\u00e4ten verbunden, wie z. B. Entspannung, Konzentration, Kreativit\u00e4t und Schlaf. Wie Sie sehen, schwankt es st\u00e4ndig - das Gehirn ver\u00e4ndert sich st\u00e4ndig und h\u00f6rt nie auf, egal welche Aktivit\u00e4t Sie ausf\u00fchren. Klicken Sie auf die verschiedenen Wellentypen (Alpha, Theta, Gamma usw.), um mehr \u00fcber sie zu erfahren."
+  },
+  {
+    "key": "eeg_rhythems_alpha",
+    "value": "Wenn sich die Linie Alpha n\u00e4hert, bedeutet dies, dass die Alpha-Wellen stark sind. Sie k\u00f6nnen sehen, dass die Linie im Vergleich zu den anderen Frequenzen ziemlich langsam ein- und ausgeht, da Alphawellen langsam und sich wiederholend sind. Dies wird als Alpha-Rhythmus bezeichnet und ist mit einem ruhigen und entspannten Geisteszustand verbunden."
+  },
+  {
+    "key": "eeg_rhythems_beta",
+    "value": "Beta-Wellen sind mit Fokussierung verbunden. Sie k\u00f6nnen sehen, dass die Linie gelegentlich in der N\u00e4he des Beta-Symbols herumspringt. Dies bedeutet, dass die Person m\u00f6glicherweise einen fl\u00fcchtigen Moment der Konzentration erlebt."
+  },
+  {
+    "key": "eeg_rhythems_gamma",
+    "value": "Gamma ist eine Welle mit h\u00f6herer Frequenz. Es ist mit der Verarbeitung eingehender sensorischer Informationen, dem L\u00f6sen von Problemen und dem Lernen verbunden."
+  },
+  {
+    "key": "eeg_rhythems_theta",
+    "value": "Theta ist mit Ged\u00e4chtnisbildung und Erinnerung verbunden oder mit Geisteszust\u00e4nden, die nicht ganz wach sind - beispielsweise wenn Sie \u00fcberm\u00e4\u00dfig m\u00fcde sind und im Schlaf ein- und ausschlafen. Die Linien m\u00f6gen hier und da abfallen, aber Sie werden feststellen, dass sie nicht so oft hier bleiben wie bei Alpha, Beta und Gamma. Dies k\u00f6nnte daran liegen, dass diese Aufzeichnung gemacht wurde, als die Person nur herum sa\u00df und nichts in einem MRT-Ger\u00e4t mit aufgesetzter EEG-Kappe tat. Es ist dort ziemlich laut, daher bezweifle ich, dass sie sehr entspannt waren oder schlafen konnten."
+  },
+  {
+    "key": "eeg_rhythems_delta",
+    "value": "Delta ist eine Welle, die mit tiefem Schlaf verbunden ist, sogar mit traumlosem Schlaf. Sie fragen sich vielleicht, warum sich die Linie ab und zu Delta n\u00e4hert, wenn wir wissen, dass diese Aufnahme bei einer wachen Person gemacht wurde. Dies ist ein Fehler in der Aufnahme. Das Erstellen einer EEG-Aufzeichnung ist schwierig, da wir die vom Gehirn erzeugte Elektrizit\u00e4t \u00fcber die Hautoberfl\u00e4che ablesen. Es gibt viele Faktoren, die die Genauigkeit dieser Ablesung beeintr\u00e4chtigen k\u00f6nnen, z oder WiFi im Zimmer. All diese Dinge erzeugen Elektrizit\u00e4t und unterbrechen Daten aus dem Gehirn. Wir nennen diese Nicht-Gehirn-Ereignisse \u201eArtefakte\u201c und versuchen, sie herauszufiltern."
+  },
+  {
+    "key": "scalp_surface_info",
+    "value": "Die Grafiken und Modelle in dieser App stammen aus einem MRT- (Magnetresonanztomographie) + EEG-Scan (Elektroenzephalograph) einer Person. Wir verwenden diese Daten, um dieses 3D-Modell ihres Kopfes zu erstellen, und f\u00e4rben die Oberfl\u00e4che mithilfe der EEG-Daten. Das EEG wird von einigen Sensoren in Fingerspitzengr\u00f6\u00dfe \u00fcbernommen, aber Sie k\u00f6nnen sehen, dass der gesamte Kopf mit Farbe bedeckt ist, nicht nur die Sensoren. Wie k\u00f6nnen wir all diese Gehirnaktivit\u00e4ten anhand eines Scans mit nur wenigen kleinen Sensoren visualisieren? Wir k\u00f6nnen dies anhand eines mathematischen Modells der Funktionsweise des Gehirns tun. Dieses Modell hei\u00dft The Virtual Brain und hilft uns zu erraten, was der Rest des Gehirns tut."
+  },
+  {
+    "key": "scalp_surface_raw",
+    "value": "In dieser Visualisierung wird hohe Aktivit\u00e4t durch Rot und niedrige Aktivit\u00e4t durch Blau dargestellt. Sie haben wahrscheinlich bemerkt, dass das Aktivit\u00e4tsniveau im gesamten Gehirn ziemlich stark schwankt. Dies ist sehr normal und fast jedes Gehirn sieht so aus, wenn es nichts tut. Manchmal nennen wir dies \"Leerlauf\" oder \"Ruhezustand\". Grunds\u00e4tzlich erhielt die Person, deren Gehirn wir aufzeichneten, w\u00e4hrend der Aufnahme keine Aufgaben oder Aktivit\u00e4ten. Wenn die Person eine Aufgabe erhalten hat, sehen wir m\u00f6glicherweise ein anderes Aktivit\u00e4tsmuster. Wenn sie beispielsweise ein Video ansehen w\u00fcrden, w\u00fcrden wir eine hohe Aktivit\u00e4t im hinteren Teil des Gehirns in einem Bereich sehen, der als Okzipitallappen bezeichnet wird.\n\nW\u00e4hlen Sie verschiedene Gehirnaktivit\u00e4tstypen aus, um die auf die Kopfhaut projizierte Aktivit\u00e4t anzuzeigen."
+  },
+  {
+    "key": "scalp_surface_alpha",
+    "value": "Alpha-Frequenzen sind mit Entspannung verbunden und k\u00f6nnen im okzipitalen Bereich (der R\u00fcckseite des Gehirns) bei geschlossenen Augen sehr ausgepr\u00e4gt sein. Die Intensit\u00e4t des Alpha-Rhythmus wird verringert, wenn die Augen ge\u00f6ffnet sind oder wenn Sie schl\u00e4frig sind. M\u00f6glicherweise sehen Sie die Alpha-Aktivit\u00e4t auf der R\u00fcckseite der Kopfhaut intensiver."
+  },
+  {
+    "key": "scalp_surface_beta",
+    "value": "Beta-Frequenzen sind w\u00e4hrend des normalen Wachbewusstseins vorhanden. Wenn jemand die Augen geschlossen hat und sie dann \u00f6ffnet, kann es normalerweise zu einer Zunahme der Beta-Aktivit\u00e4t kommen. Beta-Aktivit\u00e4t auf der unteren Frequenz des Spektrums kann auf Konzentration, Angst oder Stress hinweisen. Es ist unwahrscheinlich, dass Sie in dieser Visualisierung sehr viel Beta-Aktivit\u00e4t sehen, aber wenn Sie dies tun, k\u00f6nnte es sich irgendwo auf der Kopfhaut befinden."
+  },
+  {
+    "key": "scalp_surface_gamma",
+    "value": "Gamma ist am h\u00e4ufigsten bei der Verarbeitung eingehender sensorischer Informationen, beim L\u00f6sen von Problemen und beim Lernen vorhanden. Es wird h\u00e4ufig in den frontalen, parietalen und temporalen Regionen des Gehirns gesehen, sodass Sie diese Aktivit\u00e4t m\u00f6glicherweise intensiver an der Vorderseite, der Oberseite und den Seiten der Kopfhaut sehen k\u00f6nnen."
+  },
+  {
+    "key": "scalp_surface_theta",
+    "value": "Es wird angenommen, dass der gr\u00f6\u00dfte Teil der Theta-Aktivit\u00e4t vom Thalamus und Hippocampus beim Menschen herr\u00fchrt. Dies sind kleine Regionen in der Mitte des Gehirns, weit weg von der Oberfl\u00e4che. W\u00e4hrend des Tr\u00e4umens von Schlaf-, Meditations-, Navigations- und Ged\u00e4chtnisaufgaben kann beobachtet werden, dass Theta aus vielen Teilen des Gehirns kommt. Sie k\u00f6nnen diese Aktivit\u00e4t \u00fcberall auf der Kopfhaut schwach sehen."
+  },
+  {
+    "key": "scalp_surface_delta",
+    "value": "Delta ist mit tiefem traumlosem Schlaf verbunden und seine Intensit\u00e4t ist ein guter Indikator daf\u00fcr, wie tief jemand schl\u00e4ft. Es ist die langsamste m\u00f6gliche Gehirnwelle, die wir beim Menschen kennen. Delta-Wellen stammen aus dem Thalamus und der Kortikalis. Der Thalamus ist eine kleine Region in der Mitte des Gehirns, daher ist er in dieser Visualisierung nicht sichtbar. Wenn jedoch Delta vorhanden ist, induziert er auch die Wachstumshormonproduktion aus der Hypophyse in der N\u00e4he. Der Kortex ist die gesamte \u00e4u\u00dfere Oberfl\u00e4che des Gehirns nahe der Oberfl\u00e4che der Kopfhaut. In dieser Visualisierung wird wahrscheinlich keine Delta-Aktivit\u00e4t angezeigt, da die Daten von einer Person in einem sehr lauten MRT-Ger\u00e4t stammen. Wenn Sie etwas sehen, ist es wahrscheinlich sehr schwach oder ein Fehler in der Datenaufzeichnung."
+  },
+  {
+    "key": "cortical_surface_info",
+    "value": "Dieses Modell des Kortex der Person besteht aus MRT- (Magnetresonanztomographie) + EEG-Scans (Elektroenzephalograph) ihres Gehirns. Die MRT macht Bilder von der Innenseite des Kopfes und mithilfe von Software k\u00f6nnen wir ein 3D-Modell nur des Gesichts und des Gehirns erstellen. Dieses Modell \u00e4hnelt der Oberfl\u00e4chenvisualisierung der Kopfhaut. Stellen Sie sich vor, die von der Oberfl\u00e4che der Kopfhaut gelesenen EEG-Daten wurden auf das Gehirn im Inneren projiziert - das sehen wir in dieser Visualisierung."
+  },
+  {
+    "key": "cortical_surface_raw",
+    "value": "Genau wie bei der Visualisierung der Kopfhautoberfl\u00e4che ist dieser Kortex mit schwankenden Farben bedeckt. Das Gehirn ver\u00e4ndert sich st\u00e4ndig - auch im Ruhezustand. Gelegentlich kann es vorkommen, dass das Gehirn an einigen Stellen f\u00fcr einen Moment dunkelgrau wird. Dies bedeutet, dass w\u00e4hrend des EEG-Scans ein Fehler aufgetreten ist. Dies kann viele Gr\u00fcnde haben, z. B. St\u00f6rungen durch die blinkende, sich bewegende Person oder sogar das Licht im MRT-Raum, die alle geringe Mengen an elektrischem Strom erzeugen, die die Aufzeichnung st\u00f6ren. Wir k\u00f6nnen einige dieser Fehler herausfiltern, aber wenn es zu viele gibt, k\u00f6nnen wir nicht erraten, was das Gehirn tut. In diesem Modell lassen wir diese Teile dunkelgrau, um die fehlenden Daten zu symbolisieren.\n\nW\u00e4hlen Sie verschiedene Gehirnaktivit\u00e4tstypen aus, um die auf den Kortex projizierte Aktivit\u00e4t anzuzeigen."
+  },
+  {
+    "key": "cortical_surface_alpha",
+    "value": "Alpha-Frequenzen sind mit Entspannung verbunden und k\u00f6nnen im okzipitalen Bereich (der R\u00fcckseite des Gehirns) bei geschlossenen Augen sehr ausgepr\u00e4gt sein. Die Intensit\u00e4t des Alpha-Rhythmus wird verringert, wenn die Augen ge\u00f6ffnet sind oder wenn Sie schl\u00e4frig sind. M\u00f6glicherweise sehen Sie die Alpha-Aktivit\u00e4t im hinteren Bereich des Kortex intensiver."
+  },
+  {
+    "key": "cortical_surface_beta",
+    "value": "Beta-Frequenzen sind w\u00e4hrend des normalen Wachbewusstseins vorhanden. Wenn jemand die Augen geschlossen hat und sie dann \u00f6ffnet, kann es normalerweise zu einer Zunahme der Beta-Aktivit\u00e4t kommen. Beta-Aktivit\u00e4t auf der unteren Frequenz des Spektrums kann auf Konzentration, Angst oder Stress hinweisen. Es ist unwahrscheinlich, dass Sie in dieser Visualisierung sehr viel Beta-Aktivit\u00e4t sehen, aber wenn Sie dies tun, k\u00f6nnte es sich irgendwo im Kortex befinden."
+  },
+  {
+    "key": "cortical_surface_gamma",
+    "value": "Gamma ist am h\u00e4ufigsten bei der Verarbeitung eingehender sensorischer Informationen, beim L\u00f6sen von Problemen und beim Lernen vorhanden. Es wird h\u00e4ufig in den frontalen, parietalen und temporalen Regionen des Gehirns gesehen, sodass Sie diese Aktivit\u00e4t m\u00f6glicherweise intensiver an der Vorderseite, oben und an den Seiten des Kortex sehen k\u00f6nnen."
+  },
+  {
+    "key": "cortical_surface_theta",
+    "value": "Es wird angenommen, dass der gr\u00f6\u00dfte Teil der Theta-Aktivit\u00e4t vom Thalamus und Hippocampus beim Menschen herr\u00fchrt. Dies sind kleine Regionen im Zentrum des Gehirns, weit weg von der Oberfl\u00e4che. W\u00e4hrend des Tr\u00e4umens von Schlaf-, Meditations-, Navigations- und Ged\u00e4chtnisaufgaben kann beobachtet werden, dass Theta aus vielen Teilen des Gehirns kommt. Sie k\u00f6nnen diese Aktivit\u00e4t \u00fcberall im Kortex schwach sehen."
+  },
+  {
+    "key": "cortical_surface_detla",
+    "value": "Delta ist mit tiefem traumlosem Schlaf verbunden und seine Intensit\u00e4t ist ein guter Indikator daf\u00fcr, wie tief jemand schl\u00e4ft. Es ist die langsamste m\u00f6gliche Gehirnwelle, die wir beim Menschen kennen. Delta-Wellen stammen aus dem Thalamus und der Kortikalis. Der Thalamus ist eine kleine Region in der Mitte des Gehirns, daher ist er in dieser Visualisierung nicht sichtbar. Wenn jedoch Delta vorhanden ist, induziert er auch die Wachstumshormonproduktion aus der Hypophyse in der N\u00e4he. Der Kortex ist die gesamte \u00e4u\u00dfere Oberfl\u00e4che des Gehirns nahe der Oberfl\u00e4che der Kopfhaut. In dieser Visualisierung wird wahrscheinlich keine Delta-Aktivit\u00e4t angezeigt, da die Daten von einer Person in einem sehr lauten MRT-Ger\u00e4t stammen. Wenn Sie etwas sehen, ist es wahrscheinlich sehr schwach oder ein Fehler in der Datenaufzeichnung."
+  },
+  {
+    "key": "cortical_parcellation_info",
+    "value": "Dieses Gehirnmodell \u00e4hnelt der kortikalen Visualisierung, die Sie m\u00f6glicherweise zuvor gesehen haben, au\u00dfer dass es in Abschnitte unterteilt wurde. Dies wird als Parzellierung bezeichnet und basiert auf einem Standardatlas eines Gehirns, das dem Gehirn dieser einzigartigen Person zugeordnet ist. Verschiedene Regionen - oder Sammlungen von Regionen - sind im Allgemeinen mit bestimmten Aktivit\u00e4ten verbunden, z. B. H\u00f6ren, Sehen, Erinnern, Lernen usw. In unserem Labor untersuchen wir, wie die Regionen mithilfe von The Virtual Brain zusammenarbeiten - einer Plattform zur Simulation personalisierter Hirnnetzwerkmodelle. Sie k\u00f6nnen dies hier in Aktion sehen. Die animierten Farben und Lichter sind eine Simulation der Gehirnaktivit\u00e4t dieser Person, basierend auf den MRT- und EEG-Aufzeichnungen, die Sie m\u00f6glicherweise zuvor in den Zeitreihen, EEG-Rhythmen, Kopfhaut- und Kortikalis-Visualisierungen gesehen haben. In dieser Visualisierung sehen wir verschiedene Regionen, die zu unterschiedlichen Zeiten und in unterschiedlichen Kombinationen aktiv sind, da das virtuelle Gehirn anhand der Daten und mathematischen Modelle der Funktionsweise des Gehirns eine bestm\u00f6gliche Vermutung dar\u00fcber simuliert, was das Gehirn dieser Person tut."
+  },
+  {
+    "key": "cortical_parcellation_raw",
+    "value": "\u00c4hnlich wie bei der Visualisierung der kortikalen Oberfl\u00e4che schwankt dieser Kortex mit vielen Farben. Das Gehirn ver\u00e4ndert sich st\u00e4ndig - auch im Ruhezustand. Dieses Modell unterscheidet sich vom kortikalen Oberfl\u00e4chenmodell darin, dass es die Aktivit\u00e4t im Gehirn zeigt. Farbcluster stellen den Ursprung der Gehirnaktivit\u00e4t im Gehirn dar, und der Ort kann angeben, um welche Art von Gehirnaktivit\u00e4t es sich handelt. Zum Beispiel kann Aktivit\u00e4t in der N\u00e4he der Oberseite des Kortex mit realen oder imagin\u00e4ren motorischen Aufgaben wie dem Bewegen des K\u00f6rpers zusammenh\u00e4ngen.\n\nW\u00e4hlen Sie verschiedene Gehirnaktivit\u00e4tstypen aus, um die auf den Kortex projizierte Aktivit\u00e4t anzuzeigen."
+  },
+  {
+    "key": "cortical_parcellation_alpha",
+    "value": "Alpha-Frequenzen sind mit Entspannung verbunden und k\u00f6nnen im okzipitalen Bereich (der R\u00fcckseite des Gehirns) bei geschlossenen Augen sehr ausgepr\u00e4gt sein. Die Intensit\u00e4t des Alpha-Rhythmus wird verringert, wenn die Augen ge\u00f6ffnet sind oder wenn Sie schl\u00e4frig sind. M\u00f6glicherweise sehen Sie die Alpha-Aktivit\u00e4t im hinteren Bereich des Gehirns intensiver."
+  },
+  {
+    "key": "cortical_parcellation_beta",
+    "value": "Beta-Frequenzen sind w\u00e4hrend des normalen Wachbewusstseins vorhanden. Wenn jemand die Augen geschlossen hat und sie dann \u00f6ffnet, kann es normalerweise zu einer Zunahme der Beta-Aktivit\u00e4t kommen. Beta-Aktivit\u00e4t auf der unteren Frequenz des Spektrums kann auf Konzentration, Angst oder Stress hinweisen. Es ist unwahrscheinlich, dass Sie in dieser Visualisierung sehr viel Beta-Aktivit\u00e4t sehen, aber wenn Sie dies tun, k\u00f6nnte dies irgendwo im Gehirn sein."
+  },
+  {
+    "key": "cortical_parcellation_theta",
+    "value": "Es wird angenommen, dass der gr\u00f6\u00dfte Teil der Theta-Aktivit\u00e4t vom Thalamus und Hippocampus beim Menschen herr\u00fchrt. Dies sind kleine Regionen im Zentrum des Gehirns, weit weg von der Oberfl\u00e4che. W\u00e4hrend des Tr\u00e4umens von Schlaf-, Meditations-, Navigations- und Ged\u00e4chtnisaufgaben kann beobachtet werden, dass Theta aus vielen Teilen des Gehirns kommt. Sie k\u00f6nnen diese Aktivit\u00e4t schwach \u00fcberall im Gehirn sehen."
+  },
+  {
+    "key": "cortical_parcellation_gamma",
+    "value": "Gamma ist am h\u00e4ufigsten bei der Verarbeitung eingehender sensorischer Informationen, beim L\u00f6sen von Problemen und beim Lernen vorhanden. Es wird h\u00e4ufig in den frontalen, parietalen und temporalen Regionen des Gehirns gesehen, sodass Sie diese Aktivit\u00e4t m\u00f6glicherweise intensiver an der Vorderseite, oben und an den Seiten des Gehirns sehen k\u00f6nnen."
+  },
+  {
+    "key": "cortical_parcellation_detla",
+    "value": "Delta ist mit tiefem traumlosem Schlaf verbunden und seine Intensit\u00e4t ist ein guter Indikator daf\u00fcr, wie tief jemand schl\u00e4ft. Es ist die langsamste m\u00f6gliche Gehirnwelle, die wir beim Menschen kennen. Delta-Wellen stammen aus dem Thalamus und der Kortikalis. Der Thalamus ist eine kleine Region im Zentrum des Gehirns, und wenn Delta vorhanden ist, induziert es auch die Wachstumshormonproduktion aus der Hypophyse in der N\u00e4he. In dieser Visualisierung wird wahrscheinlich keine Delta-Aktivit\u00e4t angezeigt, da die Daten von einer Person in einem sehr lauten MRT-Ger\u00e4t stammen. Wenn Sie etwas sehen, ist es wahrscheinlich sehr schwach oder ein Fehler in der Datenaufzeichnung."
+  },
+  {
+    "key": "volumetric_data_info",
+    "value": "Ziehen Sie an den Schiebereglern, um die Bilds\u00e4tze anzuzeigen, die w\u00e4hrend eines MRT-Scans (Magnetresonanztomographie) erstellt wurden. Hier k\u00f6nnen Sie durch Bilds\u00e4tze des Gehirns gleiten, die mit einer MRT erstellt wurden."
+  },
+  {
+    "key": "volumetric_data_slider",
+    "value": "Sie k\u00f6nnen sehen, wie die Bilder in winzigen Schritten von Ohr zu Ohr oder vom Kinn zur Oberseite des Kopfes oder von der Nase zum Hinterkopf gehen. Mit dieser Serie von 2D-Bildern k\u00f6nnen wir die 3D-Modelle erstellen, die Sie im Rest dieser App sehen - zum Beispiel die Modelle von Gesicht, Kopfhaut und Gehirn. Wir verwenden diese anatomischen Daten, die f\u00fcr jede Person einzigartig sind (wie ein Fingerabdruck), auch, um die Simulationen zu informieren und sie genauer an diese Person anzupassen. Wir k\u00f6nnen Bilder wie diese verwenden, um eine personalisierte Simulation des Gehirns einer Person zu erstellen - einschlie\u00dflich Ihres! Diese Personalisierung ist wichtig, da es kein Gehirnmodell gibt, das jedes einzelne Gehirn genau darstellt. Wir k\u00f6nnen personalisierte Gehirnsimulationen verwenden, um Gehirnkrankheiten wie Alzheimer, Schlaganfall, Koma und Epilepsie zu untersuchen und zu behandeln."
+  },
+  {
+    "key": "connectivity_model",
+    "value": "Diese Visualisierung zeigt die Trakte der wei\u00dfen Substanz im Gehirn. Trakte der wei\u00dfen Substanz sind Wege, auf denen Gehirnsignale wandern und Informationen an verschiedene Teile des Gehirns liefern. Sie bilden eine anatomische Struktur, die f\u00fcr jeden Menschen einzigartig ist. Die Farben in diesem speziellen Modell stellen die Richtung dar, in die sich das Signal bewegt, da Sie sehen k\u00f6nnen, dass einige Signalpfade ziemlich verdreht sind, da sie durch viele Teile des Gehirns flie\u00dfen."
+  },
+  {
+    "key": "connectivity_firing_rates",
+    "value": "In der Traktographie-Visualisierung haben wir die Pfade gesehen, auf denen Informationen durch das Gehirn flie\u00dfen, und in dieser Visualisierung k\u00f6nnen wir auch die Informationen sehen, die auf diesen Pfaden flie\u00dfen. Wer sendet und empf\u00e4ngt diese Informationen? Neuronen im Gehirn! Hier sehen wir den Weg, den die Signale nehmen, aber nur einen kleinen Bruchteil des realen Informationsflusses im Gehirn. Sie k\u00f6nnen sich diese Signale als Kommunikationsfehler vorstellen oder als Autos auf den Stra\u00dfen und Autobahnen einer Stadt, die Passagiere zwischen Standorten bef\u00f6rdern. Die Signalwege, Geschwindigkeit und Intensit\u00e4t der Signale liefern wichtige Informationen und k\u00f6nnen uns bei der Diagnose spezifischer Probleme helfen. Wenn zum Beispiel die Kommunikation in einem Teil des Gehirns sehr intensiv und repetitiv ist und sich dieses Kommunikationsmuster \u00fcber das Gehirnnetzwerk ausbreitet, wissen wir, dass der Besitzer dieses Gehirns einen Anfall hat."
+  }
+]}
