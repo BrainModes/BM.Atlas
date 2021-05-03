@@ -15,7 +15,8 @@ Sound effects sources:
 
 
 Unity Version: 2019.2.21f1
-Build scenes:  
+Build scenes:    
+
 0. Atlas-Combined-Menu
 1. Atlas-VonEco-Regions
 2. Atlas-Hybrid-Regions
@@ -24,4 +25,18 @@ Build scenes:
 5. Atlas-Glasser-Pathways
 6. Atlas-Glasser-Braak
 7. Atlas-Acknowledgements
+
+Third party assets needed to build project. 
+
+1. Accordion https://github.com/0kk470/Unity_AccordionUI
+2. EasyOutline by David Dunnings
+3. EasyTouchBundle https://assetstore.unity.com/packages/tools/input-management/easy-touch-controls-28118
+4. RTL https://assetstore.unity.com/packages/tools/gui/right-to-left-rtl-text-converter-4348
+5. Skybox Plus https://github.com/keijiro/SkyboxPlus
+6. Standard Assets https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+7. TextMesh Pro - Now included in Unity Game Engine
+
+
+Please contact c.langford@brainmodes.com for further help or questions regarding how to build this project from the source code. 
+
 
