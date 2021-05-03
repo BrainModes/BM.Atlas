@@ -37,6 +37,6 @@ Third party assets needed to build project.
 7. TextMesh Pro - Now included in Unity Game Engine
 
 
-Please contact c.langford@brainmodes.com for further help or questions regarding how to build this project from the source code. 
+Please contact c.langford    at    brainmodes.com for further help or questions regarding how to build this project from the source code. 
 
 
