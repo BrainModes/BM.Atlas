@@ -40,3 +40,6 @@ Third party assets needed to build project.
 Please contact c.langford    at    brainmodes.com for further help or questions regarding how to build this project from the source code. 
 
 
+# Acknowledgments
+
+This  research  has  received  funding  from  the  European  Union’s  Horizon  2020  Framework  Programme  for  Research  and  Innovation  under  the  Specific  Grant  Agreement  Nos.  785907  (Human  Brain Project SGA2),  945539  (Human  Brain Project SGA3), ICEI 800858, VirtualBrainCloud 826421 and ERC 683049.
